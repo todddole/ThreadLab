@@ -1,0 +1,33 @@
+Operating Systems HW #3
+Book Database Readers-Writers Problem 
+
+Correctness     ??/20
+Documentation     ?/3 (variables)
+Mercurial         2/2
+------------------------
+Total            ??/25
+
+
+There were some significant issues with your solution.
+
+ * Your attempted solution to fixing client behavior doesn't work (-2)
+ * In the semaphore solution
+   - initial value of readlock semaphore is wrong (-1)
+   - if a searched for item is not found you are not releasing the read lock (-3)
+   - there was no write lock applied when saving state of database (-2)
+	 - didn't apply semaphores to other read primitives (which weren't used in
+		 this program, but it doesn't make sense for the database class to 
+		 provide synchronization behavior for some read actions and not others) (-0) 
+ * In the monitor solution:
+   - there was no synchronization applied when saving state of database (-1)
+	 - didn't apply synchronization to other read primitives (-0)
+
+
+Your fix to the client code looked good. The "monitor" version of your program
+looked good as well. There were a couple of problems with the semaphore
+version of the program:
+ * the acquire statement should appear before the loop rather than inside the
+   loop
+ * if a searched for item is not found you are not releasing the read lock (-3)
+
+T.Sergeant

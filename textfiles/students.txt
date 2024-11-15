@@ -1,0 +1,7509 @@
+Davee, Federico
+FINA+BIOL
+115
+Raike, How
+PSYC.ART
+114
+Ralls, Ichiro
+ENGL.ATTR
+41
+Dawrs, Haruo
+MATH.THEO
+62
+Querobin, Eleanor
+KSPR.NURS
+77
+Inaba, Kanae
+ART.THEA
+17
+Ungerecht, Shannon
+BSAD.ECON
+86
+Frankforter, Ricardo
+FSSC+FINA
+122
+Yuno, Sebastiana
+THEO.SOCI
+67
+Forte, Sylvia
+MKTG.COHD
+14
+Luke, Kiyoto
+ENGL.HIST
+29
+Farmer, Tomiji
+MATH.MGMT
+123
+Jeschke, Anselmo
+THEA.KSPR
+25
+Decker, Francis
+ENGL.MUTC
+44
+Gilliam, Mau
+NURS+PHYT
+123
+Daum, Tatsuo
+EDUC.FINA
+0
+Ono, Kaku
+MUSI+FSSC
+16
+Eto, Kanae
+SPAN.ATTR
+2
+Rocha, Itsuo
+ART.CRIJ
+89
+Netherland, Tadami
+ENVM.MKTG
+123
+Wood, Tante
+PHIL.EDUC
+17
+Dasalla, Mike
+CRIJ+ECON
+94
+Ushikubo, Karyn
+MGMT.PHIL
+50
+Hickens, Marcela
+CHEM.ECON
+110
+Abran, Jeanette
+ENVM.SPAN
+111
+Perez, Carey
+ATTR.HIST
+115
+Roda, Raymond
+ENGL.BIBL
+80
+Dawana, Tomac
+ENVM+KSPR
+58
+Fahey, Takashi
+SPAN+KSPR
+16
+Tonac, Melvin
+CHEM.ACCT
+97
+Abdul, Masao
+PHYS+CHEM
+1
+Mich, Kimberly
+FSSC.GEOL
+7
+Bachesta, Gennie
+KSPR.POLS
+26
+Winter, Benito
+ART.MKTG
+42
+Torchio, Omar
+ACCT.ENGL
+55
+Quezada, Ralph
+MATH+CRIJ
+104
+Davidovich, Yun
+NURS.SPAN
+35
+Saito, Cresencio
+CSCI.BIBL
+4
+Umezu, Denice
+ENVM.PHYT
+63
+Kipi, Kimiaki
+ACCT.FSSC
+118
+Kitajima, Sadie
+CSCI.HIST
+44
+Salas, Teotila
+PHYS.MNST
+24
+Oneill, Deen
+COMM.FSSC
+62
+Gline, Ichio
+SPEP.CHEM
+39
+Iko, Marcelo
+ART.MUSI
+91
+Ueyama, Leighton
+MATH.BIOL
+31
+Glover, Garland
+BIBL.FSSC
+45
+Farris, Cecil
+POLS.PHIL
+55
+Freeland, Colin
+PSYC+ATTR
+124
+Goeth, Orlando
+PHYS.ACCT
+73
+Heu, Tomac
+SCWK.PSYC
+4
+Yamamura, Lulu
+HIST.SPAN
+115
+Yoza, Esteban
+MUSI+KSPR
+35
+Gillett, Sophia
+GEOL.COHD
+126
+Kitamura, Blyth
+BIOL.PHYS
+43
+Uina, Royce
+MNST.MUTC
+108
+Raia, Wendell
+FINA.MUSI
+61
+Uwaine, Tino
+BIBL.ENVM
+75
+Baine, Take
+THEA+HIST
+19
+Wind, Jonika
+COHD.CHEM
+33
+Rocker, Benny
+MGMT.ATTR
+83
+Foxe, Shigeko
+MATH.MUSI
+8
+Goldenberg, Mitzi
+ATTR.SCWK
+19
+Lowder, Rebecca
+SPEP.MATH
+115
+Kirn, Hiroko
+ENVM.BIOL
+78
+Rodrick, Susan
+BIOL.ATTR
+38
+Onizuka, Katsumi
+KSPR.BSAD
+9
+Nerona, Stan
+PHYS.POLS
+31
+Corless, Yofu
+SPAN.SPEP
+94
+Unebasami, Jolene
+GEOL.FSSC
+12
+Balmores, Virgil
+PSYC.EDUC
+26
+Inman, Shigeo
+MATH.ECON
+34
+Debarr, Tanah
+MNST.KSPR
+15
+Eudaley, Pablo
+COHD.CRIJ
+56
+Torkelson, Phil
+PHIL.POLS
+96
+Yumoto, Cecile
+SPAN+GEOL
+34
+Gomera, Clyde
+FSSC.POLS
+20
+Ball, Randall
+KSPR.HIST
+63
+Dato, Milnor
+ENGL.ATTR
+96
+Gillen, Helen
+KSPR.EDUC
+41
+Hill, Felipe
+CRIJ.ART
+11
+In, Bernard
+FINA.ENGL
+117
+Tomiyama, Clarito
+ENVM.MUSI
+101
+Lukeala, Saxon
+ACCT.EDUC
+107
+Verity, Florence
+EDUC.MUSI
+24
+Urago, Luana
+PHIL.ATTR
+30
+Toepker, Tetsuya
+BSAD+MATH
+29
+Yago, Juzo
+FSSC.SPEP
+119
+Toma, Jonah
+GEOL.SOCI
+64
+Onga, Finlay
+THEA+CSCI
+123
+Achee, Shino
+SPAN.BSAD
+47
+Tokujo, Elwood
+COMM+ECON
+54
+Kishaba, Drew
+PHIL.MUSI
+1
+Worley, Roger
+PHIL+FINA
+36
+Bahurinsky, Bryan
+KSPR.GEOL
+35
+Lufkin, Toby
+CRIJ.NURS
+42
+Lufkin, Felinor
+MGMT.NURS
+116
+Salsedo, Brooke
+MUTC.ENGL
+45
+Ragsdale, Barton
+THEA+PHYS
+121
+Usina, Hal
+MNST.FSSC
+54
+Gnauck, Kimiaki
+BIBL.MKTG
+57
+Quigley, Andres
+PHIL.ATTR
+118
+Bal, Love
+KSPR.ECON
+36
+Sakai, Ayame
+COMM+PHYT
+32
+Quinet, Burton
+CSCI.SPAN
+108
+Everly, Kiyono
+BIBL+SPAN
+122
+Glendinning, Betty
+CHEM.BIOL
+73
+Quinn, Alice
+COMM.PHYT
+90
+Tolar, Ralph
+FSSC.ACCT
+60
+Topol, Sherl
+NURS.COHD
+105
+Jewett, Jane
+THEA.ENVM
+88
+Lukeala, Shieo
+COMM.ATTR
+73
+Vetterli, Mason
+CRIJ.HIST
+112
+Pelletier, Kamilo
+FSSC.SCWK
+59
+Lowman, Allen
+THEO+MUSI
+61
+Loyola, Alla
+PSYC+ATTR
+5
+Glenn, Cid
+MNST.BIOL
+10
+Milnor, Nympha
+POLS.ATTR
+89
+Oshima, Darrel
+BIBL.FINA
+68
+Radford, Kenichi
+THEA+HIST
+42
+Mickiewicz, Wendy
+SPAN.COHD
+58
+Ventura, Sanford
+ECON.BIOL
+50
+Glasgow, Fredrick
+MATH.CRIJ
+1
+Milare, Matsuichi
+FSSC.PHYS
+106
+Peltier, Sal
+PHYT.GEOL
+55
+Uehara, Jonah
+THEA.MATH
+71
+Kinny, Curtis
+PSYC.FINA
+87
+Jenette, Kerrie
+ACCT.CHEM
+7
+Acojido, Harold
+ENGL.PHYT
+35
+Usunomiya, Hiroko
+BIOL.CRIJ
+65
+Evangelista, Tim
+MUSI.FSSC
+13
+Michal, Yeichi
+MNST.MKTG
+17
+Johnson, Matias
+FSSC.MATH
+61
+Zablan, Adeline
+MKTG.GEOL
+24
+Mihara, Martin
+POLS.ACCT
+5
+Tooman, Mackay
+ENGL.EDUC
+104
+Yagin, Jeremiah
+FINA.SPEP
+43
+Baldauf, Dave
+GEOL+PSYC
+26
+Everest, Billie
+FINA.BIBL
+43
+Osaka, Violet
+PHYS.FINA
+25
+Jo, Wally
+BIBL.CRIJ
+119
+Kinoshita, Teru
+PHIL.BIBL
+3
+Goldsmith, Keichi
+SOCI.ART
+45
+Cottey, Karol
+MNST.ENVM
+108
+Urago, Maude
+BSAD.ACCT
+6
+Vereze, Nick
+PSYC.THEA
+38
+Mikami, Helie
+CSCI.GEOL
+90
+Fraser, Francisco
+PHYS.EDUC
+73
+Ilar, Omar
+SCWK.THEO
+58
+Quitiquit, Yuichi
+FSSC.ACCT
+93
+Michaud, Federico
+KSPR.FSSC
+121
+Abe, Hichiro
+CHEM+BIOL
+115
+Onaga, Vernon
+MGMT.POLS
+123
+Ulz, Merle
+ATTR.PSYC
+74
+Tonda, Austin
+SOCI.POLS
+74
+Giltner, Lynnett
+BIBL.KSPR
+50
+Hillinger, Marcelo
+COHD.FSSC
+64
+Cortel, Moya
+CRIJ.BIBL
+3
+Winter, Cresencio
+SPEP.SOCI
+115
+Klaus, Pascual
+BSAD.ECON
+94
+Forbes, Itsugi
+MATH.BIOL
+1
+Penisten, Sidney
+SPEP.MNST
+92
+Quison, Guillermo
+POLS.NURS
+32
+Luscomb, Abraham
+FINA+POLS
+54
+Sakanoi, Kim
+SOCI.ECON
+58
+Saladier, Sebastiana
+SOCI.THEA
+4
+Yamaki, Nelson
+FINA.THEO
+87
+Ingalls, Frederico
+KSPR.ENGL
+34
+Francia, Lynda
+CRIJ.KSPR
+81
+Kirtley, Alcy
+COHD.SPEP
+102
+Cornelius, Kile
+ENGL.ENVM
+57
+Hesterman, Gunther
+PHYS.THEO
+128
+Estrada, Tadao
+COMM.MATH
+52
+Nikaido, Seiyu
+MNST.PHIL
+38
+Debarr, Merle
+NURS.EDUC
+80
+Hikiji, Hideshi
+CSCI.MUSI
+123
+Rocero, Dania
+THEO.EDUC
+51
+Aceret, Yaichi
+MATH.CRIJ
+96
+Raich, Janos
+MUTC.PHYS
+45
+Ulz, Selvino
+PHYT.ENVM
+69
+Ortogero, Clay
+MGMT.ECON
+116
+Forth, Moses
+ATTR.ENVM
+112
+Jeschke, Matt
+COHD.PHYS
+23
+Fankboner, Summer
+SCWK.COHD
+24
+Fagundes, Birch
+CHEM.MNST
+24
+Gilkey, Philip
+ENVM+MKTG
+124
+Orozco, Yoshihisa
+ENGL+COMM
+85
+Kirkwold, Kanae
+SOCI.MUSI
+91
+Daubenspeck, Sanae
+ATTR.ENVM
+84
+Raich, Silom
+SCWK.PSYC
+19
+Quirit, Gavino
+PHYT.PHIL
+103
+Ikemori, Joelene
+MNST.BIBL
+73
+Miki, Katsumi
+NURS.BIBL
+9
+Quinton, Aurellio
+THEO.THEA
+28
+Uppole, Sammie
+MKTG.ENGL
+16
+Pertubal, Gunichi
+COMM.SOCI
+14
+Perekovich, Kiyoichi
+THEO.SPEP
+9
+Daunais, Janis
+HIST.ENGL
+120
+Yuhas, Romy
+ACCT.MUTC
+130
+Witty, Jerry
+HIST.THEO
+19
+Etheridge, Carmen
+FSSC.CRIJ
+37
+Rodrigues, Lucille
+SPAN.ECON
+43
+Tomozawa, Kristine
+PSYC.KSPR
+9
+Peleiholani, Kenneth
+SOCI.BIBL
+10
+Louys, Luana
+MUSI.MKTG
+29
+Urago, Masayuki
+SPEP.COHD
+30
+Yamase, Kame
+SPEP.PHYT
+77
+Umezu, Wesley
+NURS.KSPR
+121
+Zink, Ray
+POLS.ART
+26
+Kitazaki, Corey
+POLS.SOCI
+10
+Jenkinson, Erik
+BIBL.PHYS
+87
+John, Eddie
+ACCT.PSYC
+115
+Zydervelt, Saichi
+MNST.CSCI
+9
+Baird, Jackie
+THEA.EDUC
+98
+Nilsson, Nakayo
+MUSI.ECON
+24
+Davidovich, Mitsue
+CHEM.CSCI
+53
+Balais, Luke
+NURS+MNST
+46
+Niimi, Tammy
+GEOL.SPAN
+6
+Wohlfeil, Moses
+FINA.ART
+108
+Newberry, Kameo
+COHD.POLS
+89
+Pearson, Roy
+SPEP.BSAD
+107
+Neufeld, Hoichi
+NURS.GEOL
+109
+Opperman, Racine
+MUSI.BSAD
+106
+Tokuoka, Brigido
+SOCI.MATH
+114
+Yamasaki, Carlin
+HIST.NURS
+81
+Darr, Micki
+MATH.COMM
+46
+Ford, Reginal
+MATH.NURS
+49
+Bance, Beth
+CRIJ.SOCI
+52
+Newcomb, Nathan
+ART.BSAD
+22
+Perrell, Daniel
+CHEM.THEA
+78
+Gisler, Claude
+ECON.THEO
+122
+Urso, Georgia
+HIST.ART
+61
+Farawell, Damian
+CHEM.MKTG
+20
+Godinho, Tsukiyo
+MGMT.COHD
+104
+Topliff, Moses
+FSSC.EDUC
+116
+Factora, Johanna
+SOCI.BIBL
+105
+Franke, Denice
+COHD.BSAD
+19
+Sakima, Ricarte
+GEOL.BSAD
+90
+Uekawa, Ted
+THEO.BIOL
+72
+Umehara, Barbra
+SPAN+MUTC
+118
+Nikaido, Nobuyoshi
+KSPR.MUSI
+84
+Pecheco, Giso
+THEA+ENVM
+94
+Cotton, Alejo
+GEOL.ENGL
+79
+Gimbel, Kehau
+ART.KSPR
+67
+Yuson, Emelia
+MATH.FINA
+27
+Davy, Sue
+MUSI.CRIJ
+26
+Gleich, Sonny
+SPAN.MKTG
+51
+Yurong, Gerald
+BSAD.CSCI
+82
+Fanene, Felicia
+THEO.ATTR
+34
+Dearborn, Joyce
+ACCT.PSYC
+89
+Ooka, Hatsuyoshi
+SCWK.FSSC
+119
+Bachesta, Ivan
+POLS.BIOL
+50
+Johns, Andy
+PHYT+COHD
+69
+Estrada, Kiliminte
+MNST+ART
+120
+Peckham, Sig
+ATTR.NURS
+73
+Tokusato, Melody
+PSYC.POLS
+126
+Decambra, Lorenzo
+ENGL.PHYS
+41
+Gilliland, Linda
+SCWK.MNST
+38
+Zwicker, Wilton
+PHIL.THEO
+25
+Lukeala, In
+ECON.PHIL
+101
+Yamasato, Yoshikazu
+PHYS.KSPR
+31
+Ban, Reginal
+MNST+ACCT
+36
+Ushiroda, Nicanor
+POLS.MNST
+77
+Baguio, Purvis
+COMM.FINA
+103
+Ramler, Rose
+ECON.PHYT
+58
+Debarr, Hudson
+MNST.BSAD
+43
+Zeissler, Karol
+MUTC.MUSI
+106
+Pereira, Russel
+MNST.SOCI
+30
+Rodrigues, Milnor
+SPAN.FSSC
+98
+Miike, Takashi
+EDUC.PHIL
+49
+Jennings, Brigido
+EDUC.CHEM
+32
+Rodakowski, Louise
+MNST.HIST
+129
+Zierke, Dorothea
+CHEM+ENVM
+32
+Veriato, Laura
+THEA.COMM
+81
+Lupke, Carlton
+SCWK.MKTG
+43
+Ushikubo, Sadie
+SPAN.ATTR
+25
+Kizer, Etsuwo
+ENVM.MGMT
+55
+Opoka, Christopher
+MATH.FSSC
+16
+Baldogo, Velda
+FSSC.CRIJ
+15
+Pelton, Claude
+MKTG.ECON
+108
+Unea, Torben
+THEO.MUSI
+9
+Wooldridge, Emily
+PHYT.CSCI
+119
+Sakaitani, Derrick
+BSAD.SPAN
+31
+Baganas, Marla
+PHYT+SPEP
+83
+Sakima, Hon
+MATH.SOCI
+3
+Force, Timothy
+FINA.SPEP
+18
+Zamrzla, Joe
+THEA.PHIL
+104
+Usman, Tomoichi
+BSAD.FINA
+107
+Gomes, Blaine
+SPEP.KSPR
+66
+Davee, Hudson
+CRIJ.KSPR
+38
+Ushiroda, Kiyoji
+ACCT+CRIJ
+61
+Abian, Santa
+BIOL+ENGL
+118
+Yago, Scot
+THEA.MKTG
+29
+Davenport, Corbin
+PHYS.PHIL
+72
+Badua, Kyle
+MATH.BSAD
+116
+Luizzi, Damien
+EDUC.MUSI
+6
+Versluys, Ruben
+ATTR.GEOL
+127
+Omuro, Teri
+EDUC.ATTR
+123
+Milare, Clark
+MNST.BIBL
+93
+Ballao, Joel
+MUSI.COHD
+114
+Acojido, Rebecca
+THEA.KSPR
+3
+Urago, Ladd
+GEOL.POLS
+49
+Quisisem, Maurice
+BSAD.ACCT
+55
+Sakaguchi, Gunichi
+KSPR.MUSI
+10
+Wissing, Kerwin
+THEA.MUTC
+100
+Wooldridge, Brad
+POLS.SPEP
+0
+Danner, Dennis
+BSAD+POLS
+65
+Yurth, Fabian
+FSSC.NURS
+5
+Torioka, Barry
+SPAN.THEO
+41
+Umayas, Judy
+ENGL.FSSC
+87
+Kistle, Vicente
+MATH.SPAN
+101
+Umamoto, Jerome
+POLS.PHYT
+23
+Cornelson, Hatsugoro
+SPAN.SCWK
+63
+Quero, Malcolm
+COMM.SOCI
+107
+Ordonez, Mitoru
+HIST.PHYT
+130
+Luker, Angel
+ACCT.BIBL
+54
+Ikehara, Shinji
+ART.BIBL
+108
+Salamoni, Yee
+MATH.THEO
+103
+Lunderman, Ivan
+MUSI.KSPR
+45
+Midel, Kalei
+ECON.CRIJ
+107
+Nishibe, Santiaga
+FSSC.SOCI
+42
+Woodley, Anselmo
+BSAD.ATTR
+20
+Kino, Lon
+ACCT.PHYT
+18
+Nishibe, Nanette
+THEA.SPAN
+17
+Pederson, Charlene
+ECON.EDUC
+115
+Orencillo, Arlene
+BIOL.CRIJ
+59
+Ulibarri, Ambrocio
+CRIJ.KSPR
+66
+Dato, Roberta
+MGMT.MUTC
+84
+Acierto, Sokai
+CSCI.NURS
+97
+Usibelli, Clayton
+PHIL+MGMT
+129
+Hickson, Duane
+SOCI.MNST
+94
+Neufeld, Dickie
+ENVM.FSSC
+43
+Miklautsch, Chester
+COMM.SPAN
+97
+Pendered, Conrad
+EDUC.ENVM
+49
+Banegas, Ed
+BIBL.FSSC
+95
+Daquigan, Gennie
+FSSC+MGMT
+35
+Abat, Selva
+NURS.MGMT
+62
+Ikegami, Ignacio
+CSCI+COHD
+14
+Onorato, Adeline
+CHEM.PHYS
+28
+Zuke, Joshua
+MKTG+ATTR
+90
+Frasure, Nicolas
+COMM.MUSI
+64
+Highkin, Khalil
+MNST+COHD
+96
+Migliore, Sal
+FINA.ENVM
+101
+Davy, Yun
+MUTC.PHYS
+105
+Updike, Kurt
+FINA.BIBL
+111
+Yuda, Jmi
+BIOL.MNST
+71
+Franc, Adrienne
+CRIJ.POLS
+93
+Zamrzla, Kehau
+EDUC.COHD
+70
+Zacher, Cresencio
+ART.BIBL
+91
+Cornelius, Konoe
+NURS.PSYC
+105
+Nishi, Tad
+MNST.COHD
+50
+Fotukava, Pearson
+BIOL.CRIJ
+106
+Klaus, Katsumi
+PHIL.HIST
+118
+Toki, Karen
+MKTG.COHD
+66
+Jernigan, Masaji
+ACCT.THEO
+28
+Kishinami, Jeremiah
+HIST.BIBL
+75
+Fornander, Richard
+SPEP.ENVM
+21
+Radovich, Frances
+MGMT.POLS
+109
+Das, Buck
+NURS.POLS
+74
+Jerome, Sila
+SOCI.BIOL
+72
+Davison, Raynard
+THEO.EDUC
+50
+Foster, Mildred
+PHYT.CSCI
+105
+Nisa, Eulogio
+HIST+ENVM
+99
+Yafuso, Paulette
+ENVM.SCWK
+22
+Luke, Sammie
+ENGL.PHYT
+96
+Imaino, Alfred
+FSSC.THEA
+5
+Opiopio, Nancy
+THEA.PHYT
+98
+Nilan, Satomi
+ENVM.MNST
+10
+Mico, Crisanto
+FINA.THEA
+106
+Lowe, Cansio
+ART.MATH
+120
+Sakano, Trevor
+PHYT.MUSI
+121
+Uina, Ralph
+POLS.PHIL
+6
+Ezuka, Casey
+MNST.COHD
+84
+Michaelson, Kuuipo
+ENVM.BIOL
+44
+Zimmermann, Kawai
+MUTC.PHYS
+9
+Fair, Stacy
+PSYC.PHYT
+122
+Vezina, Jay
+SPEP.EDUC
+67
+Gloy, Kyra
+POLS.GEOL
+77
+Banagan, Jonas
+PHIL.COHD
+70
+Niiyama, Hideshi
+CRIJ+BIOL
+3
+Ueunten, Nancy
+COHD+ENVM
+123
+Hillier, Frederic
+FSSC.MKTG
+27
+Baclay, Andre
+GEOL.BSAD
+43
+Nii, Felipe
+COMM.PHIL
+84
+Orchino, Terrance
+ATTR.MKTG
+48
+Querobin, Sue
+MUSI.ART
+98
+Neu, Gaudencia
+CSCI.GEOL
+26
+Yamamoto, Matsutaro
+PHYS.SPAN
+56
+Upchurch, Philip
+MNST.THEA
+79
+Eudaley, Danielle
+CHEM.MNST
+104
+Yamakawa, Rannette
+HIST.COHD
+126
+Farmer, Sophie
+FSSC.MATH
+46
+Balbarino, Muneo
+PHYS.SPEP
+114
+Withers, Masato
+CSCI.ENVM
+92
+Frechette, Matsuichi
+MNST.FSSC
+79
+Sakmar, Douglas
+SPAN.COMM
+78
+Osawa, Yoshimasa
+CRIJ+PHYT
+105
+Migliori, Brent
+ART.KSPR
+19
+Gnauck, Niels
+MATH.SCWK
+4
+Zakahi, Malcolm
+MUSI.ATTR
+19
+Corley, Erik
+MUTC.ACCT
+25
+Abut, Patrick
+NURS.ACCT
+56
+Baclay, Abraham
+THEA.SPEP
+125
+Balinong, Carvat
+CSCI.MUSI
+94
+Jenkinson, Rudolph
+CRIJ.SCWK
+92
+Tomaselli, Romeo
+MGMT.ENGL
+48
+Cooper, Shinyu
+COMM.BSAD
+124
+Salgado, Stephanie
+BSAD.CHEM
+65
+Newberry, Bruce
+ATTR.MUTC
+54
+Imamura, Marcelo
+CHEM.ART
+7
+Opoka, Barbara
+FINA.MKTG
+36
+Corless, Melody
+CSCI.ACCT
+117
+Onomura, Danl
+ART.MNST
+117
+Dean, Itsuo
+FINA.KSPR
+35
+Perlmutter, Noboru
+MGMT.HIST
+35
+Rahe, Karl
+COHD.PSYC
+24
+Rafael, Mason
+MGMT.COMM
+28
+Kitts, Lucio
+MGMT.POLS
+104
+Glowania, Rick
+SCWK.FSSC
+53
+Fornander, Theresa
+PHIL.PSYC
+109
+Nerona, Katherine
+PSYC.COMM
+47
+Golden, Nanette
+SCWK+CHEM
+64
+Luis, Veryn
+SCWK.ECON
+29
+Woody, Curtiss
+FSSC.ENGL
+23
+Zarit, Fumie
+PHIL+PSYC
+68
+Toma, Doroteo
+FSSC.SPAN
+81
+Roensch, Arlene
+PHIL.ACCT
+93
+Nespor, Josee
+ENGL+BSAD
+58
+Jobes, Hichiro
+ENGL.BIBL
+106
+Ines, Tomiko
+BSAD.SPEP
+88
+Everly, Arlene
+FINA.NURS
+101
+Bailes, Mike
+ECON.SPAN
+106
+Quale, Kent
+CSCI.POLS
+18
+Winthers, Katherine
+BIBL.BSAD
+107
+Nesser, Angel
+ECON.CHEM
+122
+Lyman, Richard
+CHEM.PHIL
+64
+Mikaru, Denice
+CHEM.GEOL
+116
+Kjargaard, Rex
+BIOL.ECON
+32
+Foruw, Sherl
+CRIJ.THEA
+59
+Quaintance, Cipriano
+SOCI.MUTC
+45
+Nigro, Juliana
+THEO.MKTG
+37
+Nilsson, Sadie
+PHIL+COMM
+12
+Cosbodillo, Abellera
+ACCT.BSAD
+84
+Forgues, Dan
+HIST.SOCI
+37
+Failano, Sakuji
+SOCI.MGMT
+112
+Wolozin, Phillip
+GEOL+ENVM
+50
+Vetterli, Kiliminte
+THEA.BSAD
+11
+Wojahn, Yuen
+MATH.CSCI
+38
+Abalos, Masato
+BIOL.PHYS
+97
+Coughlin, Helie
+SPAN.KSPR
+122
+Corless, Wai
+BIBL.MKTG
+122
+Corogin, Alex
+MGMT.PHIL
+80
+Ingram, Sandy
+BIOL.COMM
+69
+Dawrs, Verna
+COMM.CRIJ
+72
+Yackley, Lee
+BIBL.MGMT
+8
+Quigley, Adela
+PHYT.SPAN
+117
+Higashida, Terrance
+CRIJ.MGMT
+41
+Go, Fredrick
+CRIJ.ATTR
+22
+Klempan, Richard
+SPAN.CRIJ
+36
+Roederer, Verna
+MATH+GEOL
+44
+Miedema, Leonila
+MKTG.COMM
+76
+Toering, Calley
+ART.SPAN
+74
+Wolf, Karri
+ACCT.CSCI
+124
+Winslow, Andy
+MATH.MUTC
+114
+Yui, August
+CSCI.MGMT
+59
+Ujiki, Alberto
+BIBL.MATH
+52
+Tomonaga, Rudolph
+MATH.GEOL
+114
+Franks, Silverio
+BSAD.NURS
+57
+Peiss, Halatoa
+HIST.ART
+88
+Inay, Kenneth
+COMM.CHEM
+63
+Gindler, Natalie
+FINA.HIST
+43
+Ulmer, Stan
+THEO.MGMT
+90
+Balanay, Love
+ACCT.SOCI
+94
+Migliori, Maurine
+SPAN.BSAD
+109
+Bade, Seiki
+EDUC.BSAD
+62
+Jennings, Oren
+EDUC.NURS
+123
+Fagan, Asa
+COHD.HIST
+4
+Tokuyoshi, Lorenza
+MKTG.FSSC
+86
+Winge, Hannah
+ATTR.POLS
+67
+Deanda, Nobuyoshi
+MUTC.HIST
+110
+Dant, Yan
+SOCI+MUTC
+44
+Zufich, Brooke
+SOCI.BIBL
+52
+Zeis, Newton
+SCWK.SOCI
+30
+Loveless, Raeder
+CRIJ.BIOL
+37
+Neufeld, Isao
+CRIJ.MUTC
+88
+Foronda, Judy
+PHYS.KSPR
+33
+Saladier, Waltham
+ATTR.PHYT
+44
+Sakanoi, Victoria
+BIOL.ART
+17
+Hietala, Takeshi
+PSYC.EDUC
+71
+Ramler, Roderick
+THEO.PHIL
+96
+Uratani, Sherl
+THEO.SOCI
+85
+Hikawa, Andrea
+THEA+BIOL
+87
+Luning, Gene
+SPEP.ECON
+37
+Niehaus, Clara
+ENVM+PHYS
+82
+Rabago, Charles
+ART+ATTR
+92
+Pedro, Saburo
+MKTG.SPAN
+52
+Michaels, Ilde
+KSPR+SPAN
+56
+Pereza, Keijiro
+PHYS.MUSI
+55
+Gilmore, Masami
+HIST.ENGL
+87
+Decker, Brooke
+ECON.MUSI
+59
+Goings, Shuichi
+KSPR.COHD
+49
+Wingate, Yoshiko
+ART.MGMT
+53
+Topliff, Stillman
+MGMT.BIBL
+73
+Toledo, Arcadio
+ART.MUTC
+11
+Umeki, Ron
+MUSI.BIOL
+68
+Witham, Yoshito
+GEOL.ATTR
+91
+Ramil, Kazuto
+FSSC.MUTC
+33
+Farmer, Kiyomasa
+CSCI.MATH
+90
+Fairchild, Evarts
+MUTC.FSSC
+37
+Gokey, Rocky
+MKTG.PSYC
+32
+Wolfenson, Merrie
+MNST.THEA
+47
+Sakai, Joann
+BSAD.ECON
+78
+Ushijima, Terryl
+BIBL.COHD
+36
+Franks, Vicente
+SPAN.MATH
+31
+Mijo, Stella
+ENGL.FINA
+40
+Eveland, Edward
+SOCI.GEOL
+32
+Witt, Theo
+ART.PHIL
+18
+Everton, Ebencio
+BSAD.MKTG
+59
+Cornell, Jack
+GEOL.BSAD
+41
+Radeke, Barbara
+SPAN.CRIJ
+56
+Zielinski, Petronio
+MNST+EDUC
+34
+Acedillo, Stacy
+BSAD+FSSC
+8
+Babione, Regina
+ATTR.COHD
+79
+Acob, Miulan
+MGMT.BSAD
+41
+Balais, Clinton
+NURS.GEOL
+116
+Nespor, Gratia
+THEA.MGMT
+6
+Eves, Adam
+MATH.GEOL
+113
+Zaiger, Lillias
+MATH+NURS
+52
+Evander, Errol
+ENVM.EDUC
+86
+Eswagen, Flora
+COMM.ACCT
+57
+Rolaff, Debra
+PSYC+THEA
+9
+Zilka, Gus
+FINA.BIBL
+128
+Rabot, Wilfred
+MNST.MUTC
+116
+Fahlman, Else
+ECON+BSAD
+129
+Sakurada, Tatsumi
+CHEM.PSYC
+35
+Ikeno, Teotila
+PHIL.THEA
+68
+Yuson, Santa
+SCWK.ENVM
+51
+Dansie, Stan
+KSPR.MGMT
+45
+Vesperas, Osias
+KSPR.BIBL
+90
+Davids, Karri
+PHYS.GEOL
+48
+Millare, Cyrus
+COHD.NURS
+108
+Cordova, Eric
+SPAN.CHEM
+61
+Zartler, Beth
+POLS.MNST
+43
+Rohan, Sushi
+ECON.FINA
+48
+Hildreth, Eric
+MUTC.MKTG
+3
+Farcus, Lorna
+GEOL.PSYC
+5
+Imswiler, Motoyoshi
+SCWK.PHYS
+97
+Coughlin, Sinh
+EDUC.THEA
+63
+Goma, Isaho
+PHIL.FINA
+105
+Radford, Harry
+CHEM+COMM
+94
+Pease, Oliver
+ART.ENVM
+48
+Acantilado, Adeline
+GEOL.BIOL
+125
+Wroten, Lucio
+PSYC.ENVM
+23
+Foruw, Faye
+COHD.PHIL
+79
+Adachi, Mervyn
+BIBL.MGMT
+41
+Ninomiya, Jay
+SPAN.EDUC
+92
+Lutter, Takeo
+ENVM.SCWK
+128
+Dawrs, Patricia
+MGMT.MKTG
+80
+Johansson, Kristine
+THEA.THEO
+29
+Salmasan, Miriahm
+SOCI.MATH
+58
+Radeke, Lorenza
+CSCI.MUTC
+21
+Vernola, Tokuro
+EDUC.THEA
+80
+Debois, Itsuo
+SPAN.MGMT
+15
+Kiriu, Kamalo
+EDUC.HIST
+79
+Goings, Denice
+MUTC.ART
+7
+Ines, Luen
+PHYT.MKTG
+121
+Iltz, Hudson
+ECON.BSAD
+112
+Toia, Patty
+PHYT.MKTG
+34
+Wong, Laura
+MUTC.CSCI
+10
+Urban, Florencio
+CHEM.COMM
+31
+Zimring, Estanislao
+ART.MGMT
+21
+Farley, Patricio
+HIST.CSCI
+69
+Tolby, Tameko
+COHD+PHYS
+61
+Jennings, Gillaspie
+EDUC.CRIJ
+36
+Gollaher, Buford
+PHYS.CRIJ
+88
+Imaino, Morgan
+MKTG.COMM
+48
+Dearborn, Matthew
+ECON.PSYC
+71
+Wyckoff, Hatsuo
+MUTC.MGMT
+66
+Tomihiro, Love
+PHYT+MATH
+108
+Acol, Pablo
+FSSC.BSAD
+22
+Abreu, Todd
+FINA.ART
+18
+Bader, Jesus
+KSPR.POLS
+110
+Raimondo, Al
+MNST.PHYS
+109
+Foruria, Edith
+COHD.SOCI
+115
+Vicente, Stephannie
+CSCI.MUSI
+103
+Meyerson, Kikuichi
+NURS.MUTC
+64
+Pereza, Polly
+ATTR.GEOL
+33
+Peleiholani, Charlie
+PHYS.BSAD
+122
+Lugo, Corky
+SOCI.THEO
+12
+Cottone, Lois
+FINA.MGMT
+75
+Pelayo, Albert
+KSPR.CSCI
+7
+Roe, Shizuo
+COHD.NURS
+22
+Couch, Suzanne
+ATTR.FINA
+115
+Tokunana, Mitsuo
+ECON.BSAD
+75
+Urago, Winona
+SCWK.EDUC
+37
+Ueoka, Nympha
+POLS.MUSI
+128
+Jenkinson, Clement
+PHYS.MKTG
+39
+Quiocho, Seiji
+EDUC.SOCI
+57
+Lukavich, Taichi
+ENGL.MGMT
+97
+Ono, Tracy
+COMM.BSAD
+15
+Inaba, Eleanor
+ENGL.PHYS
+23
+Peel, Lani
+ACCT.GEOL
+35
+Salido, Setsuko
+FSSC.BSAD
+33
+Opoka, Argus
+ENGL.BIBL
+21
+Quilausing, Harue
+CHEM.PHYS
+77
+Zimbra, Danny
+PHYS.POLS
+104
+Verrill, Corbin
+MNST.PHIL
+48
+Kitamura, Jana
+CHEM.PSYC
+86
+Ordonez, Raynard
+MNST.ATTR
+67
+Orio, Ebencio
+ART.SCWK
+123
+Zamora, Jenkinson
+PHYT.SOCI
+99
+Klesse, Cecile
+PHYS.CHEM
+44
+Johansen, Micki
+PHYS.SOCI
+84
+Bade, Greg
+BSAD.COMM
+3
+Jinbo, Molly
+FSSC.THEO
+54
+Nicoloff, Alfred
+FINA.BIOL
+99
+Urata, Evarts
+GEOL.NURS
+28
+Jerin, Layne
+PHYS.ENVM
+31
+Lujan, Christopher
+MATH.COHD
+30
+Pegg, Basilio
+BIOL.ENVM
+57
+Tolmie, Terrence
+ART.THEA
+65
+Perdue, Leona
+ECON.FINA
+72
+Witham, Leanne
+ATTR.PHYT
+47
+Topol, Shahriar
+FINA+THEO
+84
+Zigler, Tetsuo
+ENGL.PHYT
+33
+Wimsatt, Ebencio
+MUTC.ECON
+122
+Lukavich, Makoto
+POLS.PHIL
+21
+Hildebrand, Juichi
+PHYT+MKTG
+26
+Ulz, Harue
+ENGL.ATTR
+38
+Nenio, Keiko
+MGMT.ENVM
+55
+Roensch, Tane
+CRIJ.CSCI
+74
+Cornell, Saburo
+FSSC+PHYS
+113
+Banaga, Grant
+MGMT.BIBL
+4
+Klemme, Luke
+PHYS.MATH
+6
+Zumwalt, Sepehr
+PHYS.MKTG
+47
+Kipi, Clifford
+ENGL.MUTC
+105
+Hesterman, Kimiko
+PHIL.COHD
+98
+Pelkey, Stanley
+MGMT.SCWK
+104
+Lundhagen, Gregory
+SOCI.ATTR
+45
+Querobin, Nadine
+POLS.CRIJ
+27
+Lung, Katsumi
+ATTR+COMM
+14
+Wolfer, Cyrus
+BSAD.HIST
+60
+Abat, Danny
+NURS.BSAD
+29
+Debarr, Merton
+SOCI.POLS
+73
+Wolske, Aubrey
+SOCI.ACCT
+2
+Fassett, Kiyoji
+PHYS.BIOL
+71
+Nirei, Stuart
+PHYT.SCWK
+7
+Zimring, Hershall
+PSYC.CSCI
+65
+Lundburg, Alva
+ENGL.ATTR
+66
+Imaino, Satoshi
+COHD+SOCI
+94
+Hezekia, Arcadio
+ART.NURS
+99
+Gleason, Thomas
+ENGL.THEO
+103
+Mikami, Dorothea
+COHD.ATTR
+2
+Frankforter, Duane
+ECON.EDUC
+96
+Wojcik, Seichi
+ENVM.CSCI
+106
+Goldberger, Kiyoshi
+SPAN.MNST
+125
+Usibelli, Tarush
+MGMT.HIST
+57
+Luna, In
+BSAD.PHYT
+109
+Yajima, Stephen
+FSSC.ATTR
+109
+Goldstein, Donnalyn
+SOCI.MATH
+52
+Lupke, Jeffrey
+THEO.EDUC
+19
+Vereze, Shinse
+CSCI.FSSC
+49
+Fahey, Vicente
+MNST.PHYS
+38
+Mikami, Harriet
+COMM+GEOL
+55
+Yaeko, Gus
+ACCT+ENVM
+70
+Heyburn, Solomon
+HIST.ECON
+123
+Fotukava, Renny
+MNST.ART
+110
+Zentmire, Sanae
+COMM.SOCI
+116
+Osaki, Iran
+FSSC.BSAD
+110
+Lungren, Tatsumi
+SPEP.CRIJ
+115
+Faber, Violet
+ECON.FSSC
+56
+Frazier, Myron
+CHEM.NURS
+26
+Lunderman, Haruwo
+ECON.CSCI
+33
+Tolsma, Curtis
+EDUC.THEA
+47
+Tokumura, Kristine
+SPEP.ART
+33
+Hiebler, Eiko
+BIBL+CSCI
+2
+Wojcik, Yoshiko
+THEA.SOCI
+112
+Pecheco, Dolores
+FSSC.THEA
+107
+Lutkenhouse, Marian
+THEA.FSSC
+129
+Kishinami, Lawrence
+MATH.GEOL
+7
+Farm, Griffith
+MKTG.NURS
+16
+Sales, Harris
+FINA.MUTC
+45
+Zeuch, Tadami
+ENGL.CHEM
+108
+Hidano, Moriake
+EDUC.MATH
+18
+Fountain, Lodybesy
+CRIJ+ACCT
+63
+Kissell, Ray
+ACCT.MUTC
+80
+Salgado, Holly
+ATTR.ENVM
+52
+Wroblewski, Donald
+SCWK.THEO
+94
+Ramia, Marilyn
+ECON+SPAN
+39
+Wooldridge, Rosa
+HIST.SPEP
+30
+Higashino, Polly
+HIST.ECON
+7
+Lundburg, Kehau
+ACCT.MKTG
+71
+Sakmar, Chad
+PHIL+COHD
+14
+Everett, Dick
+POLS.MKTG
+84
+Costorio, Cyrus
+POLS.BIBL
+101
+Wohlfeil, Enrique
+PSYC.HIST
+52
+Kitagawachi, Clement
+ENVM.ACCT
+24
+Daquigan, Henry
+COHD+MATH
+79
+Godbold, Gene
+MGMT.EDUC
+126
+Kinzie, Ellaham
+PHYS.FINA
+60
+Micsik, Betty
+FSSC.PSYC
+44
+Nishi, Neves
+PHYS.ENVM
+14
+Yuson, Paul
+BIOL.HIST
+107
+Peralto, Daniel
+FINA.KSPR
+6
+Ungerecht, Oliva
+GEOL.NURS
+84
+Vick, Kazuto
+MUSI.CSCI
+15
+Torngren, Merle
+THEO.BIBL
+52
+Jesse, Waltham
+ECON+COHD
+66
+Quiroz, Patricio
+MUTC.PHYT
+31
+Lukela, Emelia
+SPAN.MATH
+72
+Ortogero, Eiko
+ATTR.SPAN
+3
+Cornuelle, Tarush
+FINA.THEO
+127
+Tooley, Kiyomasa
+HIST.PHYT
+55
+Dassance, Luke
+MUTC.POLS
+80
+Tomyl, Barry
+BIOL.COHD
+112
+Pedro, Vincent
+CSCI+HIST
+96
+Windsor, Joane
+ENVM.PHYS
+81
+Osborn, Peter
+SPAN.CSCI
+35
+Uohara, Samuel
+BSAD+BIBL
+28
+Millare, Toby
+MATH.THEA
+11
+Nicoloff, Wanda
+MUSI+PHYS
+124
+Fox, Edna
+SPEP.MUSI
+23
+Quintal, Eiko
+CRIJ.ENVM
+109
+Torkelson, Harutoshi
+ART.MNST
+102
+Miguel, Marivhel
+HIST.SCWK
+41
+Gitman, Racine
+ENGL.PHIL
+49
+Frederick, Saint
+NURS.BIOL
+107
+Goldsmith, Joseph
+THEA.MATH
+85
+Miike, Nanette
+ATTR.MNST
+116
+Banashek, Kazuo
+BIBL.THEO
+23
+Badger, Reynaldo
+PHIL.MUTC
+50
+Lufkin, Kristi
+THEA.MGMT
+72
+Bade, Tetsuo
+MUSI.COMM
+93
+Balsis, Gayle
+GEOL.CHEM
+108
+Pennell, Hayden
+ECON.BIOL
+71
+David, Pierce
+MGMT.PHIL
+24
+Falsetta, Marlon
+MUTC.MUSI
+130
+Oschner, Andres
+GEOL.COMM
+114
+Gilstrap, Blossom
+COHD.FINA
+56
+Yrizarry, Arlis
+SCWK.THEA
+111
+Torioka, Lane
+BIBL.PHIL
+109
+Omori, Vernon
+ATTR.FINA
+28
+Mielcke, Roland
+BSAD.HIST
+45
+Kishino, Shoji
+ENGL.PHYS
+127
+Peralto, Jeudi
+ECON.KSPR
+4
+Farren, Merton
+EDUC+ART
+96
+Abella, Laurence
+THEO.MGMT
+16
+Hildebrand, Misti
+CSCI.MGMT
+74
+Nicklin, Leinani
+THEO.FSSC
+125
+Frack, Sen
+COHD.ECON
+41
+Urabe, Cecile
+CRIJ+GEOL
+58
+Tomonaga, Kamalo
+MATH.BIOL
+79
+Urbic, Frederico
+HIST.ART
+69
+Kjostad, Torben
+PHIL.ACCT
+1
+Hicks, Elroy
+KSPR.ECON
+14
+Girdner, Takehiro
+ATTR.MGMT
+84
+Uehara, Jay
+CHEM.GEOL
+88
+Roderick, Gunther
+COMM.ATTR
+17
+Abraham, How
+HIST.MKTG
+40
+Tomkins, Sakuji
+SPAN.MKTG
+89
+Lyau, Ron
+EDUC.MUSI
+80
+Onga, Clarence
+ECON.SOCI
+129
+Kirker, Sonny
+SPAN.MUSI
+20
+Faltstrom, Erik
+COHD.POLS
+102
+Falsetta, Margo
+PSYC.GEOL
+58
+Salom, Ernie
+PHYS.SCWK
+103
+Unea, Anastacio
+EDUC+MUSI
+128
+Robison, Lawr
+THEA.CHEM
+72
+Ulibarri, Sadami
+NURS.PHIL
+50
+Rae, Kiyoe
+MUTC.CSCI
+2
+Verdugo, Evien
+BIOL.SPAN
+40
+Davison, Harutoshi
+BIOL.CRIJ
+1
+Winic, Jonah
+SCWK+BSAD
+81
+Kissee, Patsy
+EDUC.SOCI
+128
+Luzon, Vicki
+MUSI.SOCI
+122
+Queja, Take
+FINA.MUTC
+81
+Woolery, Margaret
+MATH.GEOL
+18
+Abad, Petronilo
+MUTC.MATH
+31
+Cornair, Dickie
+HIST.MUTC
+62
+Tokujo, Rudolph
+EDUC+SCWK
+124
+Umezu, Vladimir
+MUTC+COHD
+39
+Debarr, Hong
+COHD.HIST
+118
+Kiriu, Ardaven
+COMM.MKTG
+61
+Baguio, Julius
+PSYC+ENVM
+42
+Jitchaku, Benito
+NURS.POLS
+130
+Zuburg, Therese
+MGMT.PSYC
+120
+Onaga, Ed
+SOCI.ECON
+63
+Roller, Ryan
+SPAN.CHEM
+13
+Fortes, Masahiko
+ENGL.MUSI
+121
+Cordoban, Minoru
+CRIJ.FSSC
+102
+Omundson, Toni
+PHIL.FINA
+54
+Luning, Teo
+PHYS.FINA
+78
+Foreman, Janos
+THEA+HIST
+49
+Hewitt, Shinyu
+SCWK+SPEP
+93
+Davidovich, Bud
+ECON+BSAD
+62
+Niiyama, Buei
+CRIJ+FINA
+114
+Kinny, Margo
+MKTG+MGMT
+124
+Ramos, Phil
+THEO+CSCI
+77
+Page, Gunther
+BIOL.BSAD
+103
+Milar, Tsuneko
+ENVM.COMM
+47
+Nicklin, Carlos
+MUTC.MNST
+71
+Corsair, Hisaharu
+PHYT.CRIJ
+33
+Miler, Kyudae
+MUSI.ATTR
+111
+Sakurada, Larry
+COMM.SOCI
+11
+Nisa, Clarence
+SOCI.COMM
+2
+Tokeshi, Crispino
+THEA.ECON
+63
+Ragudo, Morio
+SPAN.CHEM
+33
+Zukeran, Santana
+HIST.MUTC
+34
+Nevins, Manley
+COMM.ATTR
+61
+Jerin, Joelene
+HIST.SOCI
+48
+Dasker, Darryl
+SPEP.COMM
+64
+Fowler, Alva
+ART.ENGL
+39
+Micsik, Matsue
+ACCT.PHIL
+61
+Baber, Khanh
+SCWK.BIBL
+48
+Kirkeby, Tarush
+PHIL+MKTG
+86
+Kirkendall, Roderick
+BIBL+BSAD
+120
+Rains, Pete
+MATH.MGMT
+33
+Acojido, Paul
+GEOL+BIBL
+52
+Deanda, Calley
+THEA.THEO
+12
+Baisley, Janis
+SPEP.POLS
+74
+Quinories, Walton
+FSSC.BIBL
+30
+Une, Cipriano
+CHEM+FSSC
+7
+Miereanu, Jim
+FSSC+CHEM
+98
+Lukeala, Raynard
+HIST.POLS
+55
+Rabe, Eldridge
+ATTR.KSPR
+90
+Robins, Adriano
+THEA.MGMT
+12
+Lozano, Pauline
+CRIJ.EDUC
+74
+Dawson, Alva
+BIOL.PHYT
+127
+Millican, Mel
+ENVM.MATH
+32
+Freitas, Cooper
+COMM+MUTC
+45
+Ungerecht, Harumi
+SCWK+CHEM
+88
+Pelekane, Karol
+COHD.MKTG
+48
+Badua, Erwin
+MUTC.PHYS
+37
+Woo, Dimas
+CSCI.HIST
+5
+Nickless, Gene
+FSSC.PSYC
+66
+Newberg, Rynee
+NURS.MUSI
+122
+Pearia, Tokuma
+MUTC.SOCI
+12
+Kinzie, Stephen
+PHYT.CRIJ
+86
+Cooperson, Ahmad
+FINA.PHYT
+73
+Kiso, Dave
+MUSI.COMM
+77
+Wyssman, Yok
+BIOL.EDUC
+108
+Uina, Waldo
+COHD.MNST
+8
+Bairos, Marie
+EDUC.FINA
+9
+Yamaoka, Colleen
+BIBL+POLS
+68
+Lundborg, Tamotsu
+SCWK.BIBL
+73
+Nguyen, Seye
+CRIJ.ENGL
+106
+Yurth, Nozomu
+FSSC.ENGL
+122
+Zygutis, Hisashi
+MKTG.PHYS
+58
+Tolar, Tetsuya
+COHD.BIOL
+32
+Pyun, Austin
+SPAN.ENGL
+95
+Ludwick, Nori
+BSAD.ENVM
+65
+Klikoff, Judith
+ENVM+MKTG
+9
+Babione, Carlton
+MUTC.ENGL
+122
+Luster, Alvin
+PHYS.PHIL
+64
+Uwaine, Vanessa
+ENGL.SPAN
+72
+Milo, Iran
+ECON.EDUC
+6
+Corrales, Darrell
+SCWK.MGMT
+32
+Lupo, Roderick
+PHYS.PHIL
+46
+Nezu, Alfred
+BIBL.MNST
+19
+Golden, Sheldon
+PHIL.COMM
+129
+Pelfrey, Laura
+SOCI.MATH
+114
+Uhl, Pat
+ENVM.FINA
+19
+Yamashiro, Jeremiah
+CHEM.MATH
+0
+Young, Welton
+NURS.PHIL
+78
+Rohloff, Jacquie
+BIOL+COMM
+6
+Tong, Hamid
+MNST.THEA
+16
+Salboro, Nicholas
+CRIJ.PHYS
+66
+Lu, Yee
+MKTG.FSSC
+22
+Falsetta, Kazumasa
+COMM.MKTG
+125
+Daunais, Hannah
+MKTG.SPEP
+96
+Eudaley, Guillermo
+MUTC.BIBL
+115
+Rabi, Tim
+BIOL.THEA
+26
+Quesenberry, Venassa
+COHD.SCWK
+44
+Queen, Sumiko
+THEO.KSPR
+41
+Pendergraft, Gratia
+ECON.PHYT
+73
+Hesterman, Rod
+CSCI.ART
+87
+Pyburn, Andrew
+BIBL.NURS
+20
+Zigmond, Moses
+PHIL.ACCT
+62
+Glasser, Sid
+MUSI.ENVM
+103
+Farnsworth, Jutaro
+POLS.FSSC
+62
+Wo, Masaji
+PHYS+SPEP
+95
+Eudaley, Asao
+MNST.ENVM
+15
+Urmeneta, Keith
+MKTG+COHD
+0
+Lu, Selvino
+MGMT.SOCI
+128
+Salter, Roderick
+BSAD.KSPR
+74
+Ikenberry, Badon
+MATH.CRIJ
+88
+Pedersen, Scott
+CRIJ.SCWK
+120
+Peek, Gregorio
+COHD.ACCT
+126
+Darrell, Dick
+POLS.ECON
+2
+Kinoshita, Macrina
+PHYS+SOCI
+30
+Quiocho, Emmeline
+BSAD.KSPR
+10
+Fraleigh, Solomon
+BIOL+THEO
+74
+Roederer, Teruo
+ATTR.BSAD
+98
+Goings, Jmi
+PSYC.CSCI
+30
+Quiban, Akio
+NURS.COMM
+54
+Osborne, Yukio
+GEOL.THEA
+87
+Heu, Adeline
+PHIL.SPAN
+59
+Verbiske, Max
+HIST.THEO
+77
+Tokusato, Roberta
+ECON.POLS
+110
+Urase, Dwight
+EDUC.PHYT
+96
+Tomas, Etsuya
+NURS.PHYT
+47
+Umberger, Angelina
+MNST.SPAN
+35
+Yuson, Mamoru
+PHYS.PSYC
+98
+Bacxa, Robbyn
+COMM.ART
+93
+Freiberg, Sylvia
+MUTC+BSAD
+57
+Jerusalem, Michael
+THEA+FSSC
+75
+Orallo, Clerin
+ACCT.CRIJ
+99
+Niehaus, Sadie
+ATTR.SOCI
+116
+Fassett, Jaymayne
+ENVM.FSSC
+32
+Zuccaro, Sheldon
+SPEP.ACCT
+80
+Darr, Gail
+SOCI.PSYC
+38
+Ingham, Leona
+PSYC.BIBL
+25
+Giovannoliheidi, Evelyn
+PSYC.GEOL
+129
+Umeda, Hiroko
+MATH.THEO
+32
+Millicheap, Harue
+ACCT.SCWK
+29
+Niiya, Kile
+PHYT.POLS
+39
+Peleiholani, Herman
+SOCI.THEA
+51
+Imamoto, Cindi
+POLS+COMM
+15
+Baltazar, Felinor
+MUTC.GEOL
+124
+Urata, Dan
+SCWK.CRIJ
+83
+Quesenberry, Marvelle
+SPAN.ATTR
+21
+Goethals, Maurine
+COHD.MATH
+13
+Quisisem, Shawn
+THEO.THEA
+35
+Zydervelt, Ichiro
+MKTG.COMM
+10
+Peshkin, Kent
+FSSC.BIOL
+85
+Rabusitz, Chitose
+MGMT.GEOL
+18
+Imazaki, Brooke
+SPAN.THEO
+36
+Robinson, Janis
+MATH.CSCI
+83
+Kirio, Oneita
+MNST.PHIL
+8
+Quimby, Elena
+CSCI.MUTC
+116
+Farnsworth, Elaine
+ENGL.SCWK
+30
+Nevin, Tomac
+COHD.ART
+121
+Woodley, Kanichi
+EDUC.BIBL
+55
+Abbriano, Dominic
+MNST+MGMT
+25
+Nerveza, Billy
+GEOL.MGMT
+96
+Rahe, Isho
+SPEP.ACCT
+4
+Newbury, Irene
+THEO.ART
+43
+Opperman, Linda
+COMM.BSAD
+84
+Woollard, Mavel
+CSCI.ENGL
+99
+Pegeder, Bruce
+ENGL.COMM
+34
+Worsencroft, Denver
+BSAD.ENGL
+22
+Zackular, Magdalena
+GEOL.BSAD
+7
+Freeze, Ambrocio
+PSYC.PHIL
+95
+Forsythe, Seiichi
+SOCI.SPEP
+57
+Wolchesky, Pua
+PHIL.PHYS
+35
+Ragasa, Kalani
+SPEP+CSCI
+73
+Miercort, Colleen
+GEOL.CRIJ
+28
+Zygutis, Sakuji
+MKTG.SOCI
+126
+Orio, Shigeo
+ACCT.CSCI
+114
+Ikemoto, Rosa
+NURS+THEO
+93
+Darby, Kiyomasa
+FSSC.PSYC
+82
+Deacon, Grace
+MKTG.THEA
+40
+Nettnin, Sue
+MNST.COHD
+2
+Abac, Sukeji
+BSAD.MUTC
+122
+Ngirngotel, Edgar
+MUTC.PHIL
+25
+Zeuch, Patty
+CSCI.MUTC
+98
+Eugenio, Daisy
+POLS.SOCI
+122
+Quintal, Joanna
+ART.FINA
+83
+Peltier, Alex
+BIBL.NURS
+34
+Lovernich, James
+COMM.POLS
+54
+Abac, Noritoshi
+ART+CSCI
+8
+Cormier, Stephanie
+MNST.FSSC
+100
+Courtenay, Johnny
+BIBL.MUTC
+126
+Zieger, Gregory
+CSCI+MKTG
+62
+Wirth, Toshio
+ART.GEOL
+49
+Penisten, Federico
+BSAD.COMM
+7
+Toering, Louis
+SPEP.ENVM
+39
+Urban, Minerva
+BIOL.SCWK
+35
+Unrath, Clerin
+PHYT.PHYS
+87
+Yuskus, Mary
+MKTG.BIBL
+62
+Quitiquit, Todd
+FINA.NURS
+66
+Woodard, Leonora
+SCWK.GEOL
+42
+Johnsen, Haruo
+THEA.GEOL
+56
+Raia, Clarence
+CHEM+CRIJ
+97
+Nigro, Loren
+KSPR.PHIL
+90
+Meza, Rosina
+NURS+PHYS
+18
+Lunderman, Hiromu
+MUTC.MATH
+65
+Newcomb, Sila
+MKTG+ENGL
+72
+Perez, Chris
+CSCI.BIOL
+31
+Wuestefeld, Adela
+KSPR.FSSC
+3
+Ramiscal, Tony
+BIBL.NURS
+24
+Hiatt, Sueki
+MATH.MKTG
+3
+Lucky, Anastacio
+ACCT.CRIJ
+13
+Fase, Andres
+MATH.BIBL
+11
+Uglum, Sebastiana
+ENVM.KSPR
+30
+Higashihara, Dwayne
+CSCI.MUTC
+63
+Zamrzla, Eric
+MKTG.NURS
+126
+Oness, Bertram
+ACCT.COMM
+46
+Fahlman, Barry
+EDUC.HIST
+74
+Frederiksen, Gerald
+ENGL.COHD
+130
+Louys, Felicia
+MGMT.BIOL
+104
+Balbag, Dexter
+NURS.FSSC
+66
+Fassett, Buck
+SCWK.FINA
+20
+Pendered, Micki
+BIOL.CHEM
+41
+Zacher, Shaunna
+PHYS.PHIL
+11
+Versteegh, Charles
+FSSC.ENVM
+8
+Cosma, Myron
+BSAD.MKTG
+75
+Bag, Gloria
+COMM.CSCI
+94
+John, Tatsuo
+ENGL.NURS
+81
+Wizbowski, Pascual
+SOCI.ATTR
+81
+Everton, Ray
+MNST.SPEP
+93
+Millicheap, Faye
+COHD.MUSI
+90
+Banaga, Clifton
+SPEP.SOCI
+127
+Quickel, Hisashi
+CHEM.ENGL
+26
+Uwono, Itsuo
+THEA.ATTR
+71
+Ragland, Remegio
+MUTC.COMM
+32
+Yusko, Leonard
+THEO.COMM
+10
+Ludwig, Hilario
+SPEP.CRIJ
+74
+Goldstine, Cesar
+MGMT.GEOL
+93
+Yamase, Waltham
+SOCI.SPEP
+86
+Frederick, Moya
+ECON.ACCT
+86
+Evett, Waldo
+SCWK.ENVM
+116
+Factora, Osias
+FSSC.GEOL
+34
+Familar, Doroteo
+ART.THEO
+13
+Persichetti, Shoichi
+CSCI.HIST
+75
+Baber, Wong
+SOCI.MGMT
+43
+Witham, Pancho
+MGMT.HIST
+77
+Zielinski, Neves
+PHYS.CHEM
+61
+Sakado, Momilani
+EDUC+MKTG
+70
+Percival, Yuen
+CHEM.SCWK
+110
+Woodwell, Joan
+MUTC.THEA
+62
+Frack, Oliver
+BIBL.COHD
+24
+Sajor, Masahiko
+ATTR.BIOL
+49
+Dante, Sandra
+EDUC.MKTG
+59
+Radl, Gunichi
+MATH.ATTR
+50
+Winzeler, Jonika
+ACCT+CHEM
+16
+Hildreth, Blyth
+PHYS.HIST
+4
+Imoto, Angel
+COHD.HIST
+25
+Urquhart, Luika
+COMM.FINA
+63
+Zarr, Tasca
+HIST.PSYC
+66
+Ilagan, Ichiro
+FSSC.SCWK
+47
+Urion, Franklyn
+NURS.MATH
+72
+Everton, Kent
+ENGL.BSAD
+71
+Sajor, Carl
+ENGL.FSSC
+119
+Peregrino, Martin
+ECON.ATTR
+63
+Banagan, Masae
+POLS.ART
+54
+Ortega, Kiyoichi
+THEO.NURS
+83
+Ralphs, Teofilo
+BIOL.CHEM
+5
+Goldstein, Mau
+CHEM.PHYS
+88
+Unis, Sharon
+BIOL.GEOL
+107
+Wizbowski, Howard
+FINA.MNST
+92
+Sakaguchi, Ruben
+COMM.EDUC
+26
+Couch, Nia
+BIOL.PHIL
+114
+Correia, Oliva
+CHEM.BSAD
+8
+Abellera, Rosanne
+CHEM.ART
+25
+Ramey, Kimiaki
+EDUC.MKTG
+120
+Roby, Toby
+PHYT.CHEM
+75
+Uldricks, Anthony
+MGMT+SOCI
+129
+Bane, Terence
+MGMT.NURS
+80
+Giudice, Larry
+CRIJ.COMM
+38
+Sakane, Shirley
+COHD.ENGL
+62
+Luczak, Marina
+ENVM.EDUC
+42
+Zeissler, Yoshimi
+PHYT.COMM
+54
+Nicklas, Nanette
+NURS.POLS
+22
+Pell, Joise
+ART.PHYT
+50
+Quitiquit, Len
+ART.ENVM
+24
+Zuburg, Greg
+FSSC.ENGL
+4
+Cottey, Mitsuo
+CHEM.SCWK
+24
+Witty, Shizue
+PHYT.MUSI
+10
+Dayacos, Todd
+ART.THEO
+58
+Wooldridge, Nicanor
+ATTR.ECON
+57
+Ingold, Omar
+FINA.PHYT
+76
+Young, Jaymayne
+ENVM+MKTG
+88
+Wix, Clemet
+SPEP.ART
+35
+Giltner, Kyra
+FSSC.COMM
+9
+Bade, Fredrick
+ART.KSPR
+58
+Fabro, Jenkinson
+GEOL.SCWK
+126
+Freitas, Mamoru
+FSSC.CSCI
+36
+Newbury, Candido
+MATH.SOCI
+107
+Tomyl, Bill
+MNST.MUSI
+98
+Ueoka, Denice
+MUSI.CRIJ
+67
+Yoza, Hide
+KSPR.MUSI
+66
+Orazietti, Yok
+COHD.FSSC
+16
+Frady, Marcela
+KSPR.MKTG
+40
+Quero, Nori
+MUTC.POLS
+27
+Deason, Jo
+ATTR.SCWK
+20
+Robles, Badon
+POLS+SCWK
+5
+Woodland, Yoshimi
+POLS.PHIL
+110
+Raappana, Vivian
+MNST.HIST
+40
+Franco, Miriahm
+PHIL.CSCI
+64
+Ikenberry, Martin
+PHYT+CRIJ
+125
+Bahurinsky, Shoichi
+GEOL+ATTR
+97
+Ragpala, Rencelly
+CSCI+PSYC
+94
+Tomihiro, Kiyomasa
+CHEM+ENVM
+8
+Kishimoto, Luana
+HIST.THEO
+92
+Bangert, Russell
+PSYC.HIST
+99
+Imamoto, Thomas
+ECON.THEA
+40
+Orr, Alfred
+ENGL.HIST
+34
+Rodriguez, Seiichi
+FINA.COMM
+46
+Cootey, Etsuko
+MUSI.THEO
+107
+Ludwick, Macrina
+PSYC.MUSI
+89
+Everitt, Margory
+PSYC+BIOL
+3
+Newbill, Konoe
+ENVM.BIBL
+112
+Questi, Mike
+GEOL.SCWK
+66
+Yamashita, Fredk
+SCWK+ENGL
+105
+Golds, Collins
+BIOL.THEO
+40
+Quirit, Sophia
+FINA.ENVM
+97
+Darrell, Ricardo
+COMM.SPEP
+13
+Nims, Mahi
+HIST+SPAN
+36
+Nemedez, Joane
+PHYS.COMM
+63
+Niehaus, Blossom
+THEA+SPAN
+52
+Aburamen, Renee
+NURS.POLS
+90
+Ines, Marcela
+ENVM.MKTG
+116
+Nessen, Gilbert
+NURS.COHD
+69
+Ramler, Kevan
+ART+SOCI
+99
+Wylie, Ole
+NURS.CHEM
+26
+Onuma, Penny
+FINA+GEOL
+42
+Kitchen, Heather
+CSCI.POLS
+0
+Balico, Teofilo
+ENVM.POLS
+78
+Roldan, Erna
+FSSC.MNST
+65
+John, Alex
+PHIL.ECON
+24
+Darley, Stephanie
+MKTG.BIOL
+69
+Penny, Yan
+BSAD.SOCI
+129
+Sakai, Matsuo
+THEO.MATH
+93
+Wohl, Tino
+BSAD.HIST
+59
+Girbisi, Arlene
+THEA.BSAD
+102
+Orssten, Ricarte
+SOCI.GEOL
+40
+Achittien, Tsuneko
+SPAN.ECON
+56
+Pyzik, Ray
+EDUC.MNST
+102
+Quist, Kiyoe
+MATH.CRIJ
+113
+Hickson, Diego
+PHYT.SOCI
+13
+Fowler, Debra
+SCWK.MNST
+108
+Nieto, Junji
+SPAN.CSCI
+112
+Farnsworth, Yeichi
+POLS.ECON
+63
+Wood, Yutaka
+POLS.PHIL
+81
+Baguio, Pancho
+CSCI.EDUC
+42
+Faltstrom, Clifford
+PSYC.SPAN
+116
+Milton, Carl
+PHYT+THEO
+130
+Urakami, Florence
+MKTG.PSYC
+98
+Correia, Manley
+BIOL.MNST
+127
+Pyun, Ralph
+CRIJ.KSPR
+65
+Racho, Bob
+CRIJ.HIST
+23
+Balisacan, Austin
+FSSC.BIOL
+82
+Ingerman, Isaho
+PHYS.CRIJ
+108
+Penn, Tyler
+FINA+COHD
+23
+Acree, Alan
+SOCI+CRIJ
+62
+Dechape, Andre
+ATTR.PHYT
+8
+Goldsmith, Horace
+MNST+GEOL
+1
+Sakimura, Leigh
+MNST.SOCI
+13
+Zeissler, Sakuji
+THEO.BSAD
+56
+Inman, Dwayne
+BSAD.CRIJ
+110
+Kino, Pedro
+ATTR.PHYS
+3
+Sakuda, Gunichi
+ENGL+PHYT
+6
+Acojido, Terence
+MUTC.CRIJ
+39
+Tong, Ricky
+CSCI.MUSI
+18
+Ramler, Maude
+CRIJ.THEO
+96
+Luczak, Pacita
+ENGL.MUSI
+25
+Fagg, Ely
+MUSI.KSPR
+48
+Wolter, Mervyn
+ACCT+ATTR
+34
+Saldua, Ramirez
+FINA.ENVM
+32
+Ordell, Maile
+PHIL.SPAN
+71
+Acedo, Max
+MUTC.ATTR
+108
+Corrales, Milton
+PSYC.ACCT
+43
+Ulz, Billie
+MATH.FSSC
+47
+Quiban, Adrienne
+MNST.POLS
+117
+Nicklin, Brenda
+MUSI.GEOL
+124
+Freedland, Kerry
+FINA+BIBL
+103
+Ono, Pacita
+PHYT.MATH
+91
+Torp, Max
+COMM.PSYC
+92
+Miha, Velda
+SPAN.NURS
+66
+John, Therese
+MUSI.BSAD
+2
+Wisken, Trevor
+ENVM.ENGL
+114
+Lucena, Moses
+ART.POLS
+32
+Miklautsch, Errol
+EDUC.PHYS
+112
+Yuskus, Fred
+ECON.PHIL
+120
+Wyrick, Peter
+CHEM.GEOL
+7
+Sales, Isho
+FSSC+BIBL
+28
+Omundson, Emmeline
+CHEM.BSAD
+12
+Yaberg, Denis
+SPEP.HIST
+125
+Nicoll, Francisco
+ART.SCWK
+48
+Ballio, Edward
+KSPR.SOCI
+30
+Verga, Marvelle
+MATH.CSCI
+97
+Urakami, Fumie
+ENVM.BIOL
+100
+Jens, Reginal
+THEA.MUTC
+20
+Newbert, Yoshitsugu
+ENVM.KSPR
+68
+Ortiz, Pearson
+KSPR.ENVM
+19
+Raeder, Hideo
+MNST.ART
+49
+Glendinning, Moto
+MUTC.POLS
+106
+Perrell, Antone
+ATTR.NURS
+80
+Usunomiya, Kiyono
+BSAD.CHEM
+88
+Courtright, Naomi
+MGMT.CHEM
+109
+Rodakowski, Pauline
+PSYC+SPAN
+58
+Wusstig, Jesus
+KSPR.ECON
+112
+Sales, Balbino
+COMM+MKTG
+105
+Fagerness, Shoji
+SOCI+THEA
+33
+Wipperman, Marky
+EDUC.PHYS
+100
+Go, Kaoru
+PHYS+CRIJ
+41
+Forbes, Enrique
+ENGL.GEOL
+22
+Acerson, Juichi
+FINA.PHYS
+4
+Achee, Tatsuo
+MUSI+KSPR
+104
+Fahey, Hugh
+MUSI.FINA
+111
+Pelayo, Aaron
+GEOL.MUSI
+37
+Yuskus, Regina
+PSYC.BSAD
+78
+Withers, Manley
+ACCT.PHIL
+12
+Zakahi, Darrel
+POLS.FINA
+128
+Jeter, Ricarte
+MGMT.GEOL
+3
+Higashi, Fumiyuki
+SPAN.KSPR
+119
+Fahey, Stan
+MNST.BSAD
+103
+Raffaelli, Kristine
+SPEP.THEO
+78
+Cote, Kinjiro
+THEA.COMM
+80
+Quiamas, Ahmad
+POLS+ENGL
+84
+Togashi, Clinton
+MUSI.HIST
+87
+Innocenti, Hans
+FSSC.CSCI
+106
+Kirkpatrick, Kathleen
+FSSC.MGMT
+110
+Roland, Patsy
+FINA.THEO
+22
+Lutgendorf, Moriake
+FINA.BIBL
+97
+Goddard, Hazel
+ECON.CSCI
+128
+Nikaido, Devonna
+BSAD.PHIL
+65
+Jewett, Mike
+ENVM.MNST
+90
+Rabe, Allen
+FSSC.COMM
+120
+Pemberton, Sal
+THEO+ART
+15
+Deaguiar, Haruko
+THEO.BSAD
+52
+Yuskus, Derrick
+FINA.CSCI
+41
+Zwicker, Lesley
+PHYS.ATTR
+50
+Ingalls, Cynthia
+SCWK.ACCT
+45
+Pertubal, Tsukasa
+SCWK.SPEP
+92
+Lutgendorf, Haruko
+COMM.SOCI
+41
+Niiya, Clara
+POLS.MUTC
+6
+Zelko, Michele
+MUTC.KSPR
+108
+Balog, Philip
+HIST.PSYC
+32
+Forster, Zan
+HIST.SOCI
+18
+Kitapci, Anabelle
+HIST.BIBL
+15
+Micua, Milnor
+GEOL.HIST
+55
+Topol, Ian
+ENGL.GEOL
+28
+Everest, Nozomu
+THEO.ENGL
+14
+Balsis, Jeudi
+SOCI.BIOL
+74
+Goggin, Corlis
+NURS.KSPR
+62
+Highley, Carlin
+CHEM+PHIL
+87
+Cottey, Yofu
+HIST.SPEP
+53
+Freedland, Jocelyn
+HIST.COMM
+128
+Zogg, Kazumi
+PHYT.BIBL
+33
+Umberger, Hatsumi
+THEA.ENGL
+129
+Nickless, Tammy
+BIBL.PSYC
+22
+Tokuuke, Mary
+FINA.ACCT
+13
+Luiz, Else
+MATH.BIOL
+19
+Torkelson, Simplicio
+PHIL.MUSI
+82
+Osborn, Marvin
+CHEM.MUTC
+104
+Peleiholani, Tod
+PSYC.MATH
+12
+Frasco, Fumi
+MUTC.HIST
+98
+Lulich, Corbin
+SCWK.SPAN
+7
+Sakai, Sandy
+ACCT.COMM
+111
+Farawell, Pauline
+BIBL.MATH
+12
+Winegar, Karol
+PSYC.KSPR
+28
+Orduna, Heidi
+GEOL.ACCT
+64
+Pertubal, Romana
+KSPR.MUTC
+84
+Ragudo, Brenda
+ACCT.GEOL
+124
+Tomori, Shigeto
+NURS.HIST
+106
+Zydervelt, Margaret
+ATTR.KSPR
+96
+Sakanashi, Marilyn
+PHYT.MATH
+10
+Das, Morio
+MNST+PHIL
+111
+Lovejoy, Delan
+MUSI.MATH
+54
+Quaccia, Nia
+ATTR.SCWK
+100
+Unebasami, Rene
+BSAD.MGMT
+76
+Jiampetti, Kerry
+PHYT.SCWK
+78
+Upchurch, Taichi
+ENVM.POLS
+75
+Kiwaha, Rex
+ENGL.THEO
+64
+Torchio, Wallace
+FSSC.EDUC
+115
+Fox, Oneita
+KSPR.PHYS
+126
+Farrelly, Charles
+HIST.GEOL
+116
+Balangitao, Margo
+COHD.SOCI
+65
+Uwaine, Adeline
+GEOL+COMM
+8
+Fagundes, Yee
+COMM.FSSC
+107
+Joaquin, Tomiji
+ACCT.EDUC
+1
+Kirby, Clarence
+BSAD.ENVM
+13
+Luzon, Lora
+HIST.SPEP
+99
+Jitchaku, Ida
+ATTR+BIBL
+97
+Perlette, Jerome
+ACCT+MKTG
+53
+Saladier, Susanne
+ECON.ACCT
+39
+Tomich, Niels
+MUTC.MUSI
+33
+Zerial, Winona
+GEOL.CRIJ
+120
+Dean, Devonna
+KSPR.PHIL
+110
+Courcy, Derek
+MUSI+MNST
+72
+Coronel, Muneo
+PHYS.MKTG
+16
+Balinong, Josee
+CRIJ.POLS
+54
+Farias, Sadami
+MUTC+FSSC
+28
+Salisbury, Gaudencia
+COHD.BIBL
+90
+Usibelli, Mavrick
+BIOL.ENGL
+16
+Ezuka, Sig
+ACCT+POLS
+86
+Wung, Joey
+FSSC.COHD
+35
+Michal, Donald
+FINA.PHYT
+69
+Bals, Haruji
+MNST.THEO
+122
+Versluys, Tammy
+SPEP.ATTR
+72
+Imhoff, Mitsuko
+SCWK.GEOL
+124
+Yrizarry, Allan
+PHYT+THEA
+46
+Estrella, Torao
+HIST.NURS
+0
+Fountain, Faith
+PHYS+MUSI
+14
+Winegar, Tante
+BSAD+SOCI
+11
+Lundhagen, Billy
+PHIL.NURS
+25
+Ueunten, Clark
+SCWK.CSCI
+106
+Penisten, Sherrill
+COMM.BIOL
+3
+Tohara, Noel
+ENVM.SPAN
+106
+Nezu, Shizue
+FSSC.BIBL
+84
+Glauner, Himy
+GEOL+HIST
+112
+Radical, Sumiko
+ENGL.FSSC
+97
+Dansie, Miriam
+CRIJ+ART
+128
+Ludwick, Norman
+SPEP+FSSC
+23
+Abac, Mitsugi
+CSCI.EDUC
+84
+Faisca, Jeff
+MATH.BIBL
+79
+Evett, Calvin
+BSAD.EDUC
+57
+Acojido, Kai
+THEA.CSCI
+110
+Nicklin, Gunther
+GEOL.POLS
+37
+Ung, Gregorio
+COMM.BIBL
+122
+Ragland, Dennis
+MUTC.CHEM
+31
+Klaue, Tatsumi
+ENVM.SOCI
+80
+Abdul, Virgilio
+MUSI.SPEP
+97
+Tomich, Lee
+SCWK.FSSC
+7
+Meyerson, Mavrick
+MGMT.BIBL
+18
+Eta, Drew
+CRIJ.CSCI
+15
+Pearce, Badon
+COMM.GEOL
+86
+Ikemori, Matsuichi
+MGMT.NURS
+8
+Ushikubo, Ryuichi
+BIBL.COMM
+66
+Mielcke, Maurine
+GEOL.MGMT
+97
+Zablan, Vanessa
+ATTR.BSAD
+128
+Ueno, Rona
+MUSI.MKTG
+130
+Zavala, Leonila
+BIOL.POLS
+54
+Yuskus, Edmund
+SCWK+SPEP
+90
+Newte, Milnor
+POLS.PHIL
+78
+Lucena, Zohreh
+PSYC.CHEM
+106
+Corah, Clinton
+THEO.ECON
+46
+Torp, Daniel
+PSYC.PHYT
+61
+Cornelius, Myron
+GEOL.MNST
+54
+Quesenberry, Ambrocio
+BIOL.KSPR
+97
+Woollard, Felix
+SOCI.MUTC
+65
+Raimondo, Ian
+NURS.ACCT
+52
+Kinny, Tadami
+MKTG.GEOL
+89
+Banagan, Tetsuya
+NURS.THEA
+114
+Bairos, Susanne
+SOCI.COHD
+128
+Tolby, Clarito
+ENGL.ACCT
+123
+Fajardo, Joseph
+MGMT.MUSI
+16
+Forgues, Clements
+SOCI.CSCI
+53
+Ly, Seiichi
+MGMT.PHYS
+23
+Falcinella, Edmund
+MUSI.PHIL
+40
+Backlund, Antone
+COHD.GEOL
+10
+Luthe, Kerrie
+COMM.CHEM
+89
+Eswagen, Francisco
+MATH.MNST
+54
+Zwicker, Nathan
+MNST.PHYS
+49
+Neville, Faith
+BIBL+MGMT
+36
+Quinn, Jerry
+MUTC+BIOL
+28
+Rodihan, Charles
+BSAD.FINA
+128
+Lufkin, Rosina
+COMM.BSAD
+13
+Gimbel, Marcia
+PHYT.SPEP
+77
+Falco, Tetsuo
+NURS.BIOL
+122
+Ikawa, Alberto
+GEOL.SCWK
+96
+Hietala, Minerva
+FINA.BSAD
+74
+Sakata, Thomasine
+ENVM.PHYT
+67
+Wollaston, Anacleto
+COHD.MNST
+57
+Imai, Verne
+CHEM.COHD
+122
+Quinet, Raynard
+SPAN.MUTC
+52
+Goma, Guillermo
+PSYC.THEO
+78
+Imaoka, Kekoolani
+BIBL+PHYS
+87
+Baldauf, Junichi
+PHYT+SOCI
+36
+Uekawa, Myles
+SPEP.MUTC
+104
+Jenette, Matias
+SOCI.HIST
+89
+Corogin, Hayden
+KSPR.FSSC
+18
+Jenner, Pancho
+ATTR.ENVM
+63
+Won, Newton
+FINA.PHIL
+31
+Everitt, Etsuya
+ART.MGMT
+103
+Freitas, Verne
+MNST.COHD
+8
+Uemura, Mack
+MUSI.HIST
+123
+Rodillas, Nia
+NURS.THEA
+7
+Cornair, Judy
+ENVM.BIBL
+72
+Higashi, Stephanie
+ENGL.GEOL
+116
+Baldogo, Buei
+PSYC.MGMT
+39
+Golden, Teruko
+GEOL.CRIJ
+40
+Miles, Guillermo
+BIBL.BIOL
+93
+Wrigley, Lesli
+MGMT.SPEP
+47
+Jensen, Gillette
+COHD.HIST
+1
+Mijo, Alice
+ENVM.CHEM
+99
+Daugherty, Rose
+MUSI.SCWK
+17
+Balberde, Cansio
+ECON.NURS
+129
+Rohloff, Juzo
+ART.NURS
+4
+Jendrick, Apio
+COHD.SPAN
+100
+Rabisa, Gratia
+HIST.THEA
+81
+Dato, Kawai
+MATH.GEOL
+53
+Raht, Rodney
+HIST.THEA
+19
+Netherland, Calvin
+MATH.PHYS
+109
+Gomera, Phillip
+SOCI.MNST
+77
+Onodera, Lesley
+CHEM.MGMT
+54
+Abalos, Arnold
+THEA.HIST
+2
+Worsham, Jene
+CSCI.CRIJ
+64
+Zuccaro, Christopher
+ECON.FINA
+23
+Luster, Walton
+BSAD.MNST
+96
+Mietzner, Kameo
+CRIJ.ACCT
+58
+Gimbel, June
+BSAD.BIOL
+64
+Dayanan, Ross
+PHIL.COMM
+48
+Inocelda, Estanislao
+SPAN.BSAD
+32
+Acheson, Sandra
+COMM.SPEP
+37
+Fahey, How
+ENGL.PHYS
+56
+Milman, Leroy
+FINA.COMM
+9
+Kipi, Eladio
+SOCI.POLS
+110
+Yamachika, Clement
+ECON.MATH
+84
+Frasco, Sonny
+COHD.MUTC
+62
+Miercort, Jim
+ENGL.CHEM
+94
+Achee, Paul
+ENVM.ENGL
+60
+Migliore, Mits
+SPAN.MUTC
+109
+Quiroz, Margit
+PHIL.SPAN
+98
+Gilliland, Mitzi
+MUSI.MGMT
+95
+Milnor, Nathan
+BIOL.MKTG
+93
+Roeder, Silom
+SPAN.FSSC
+61
+Pecheco, Sepehr
+SOCI.SPAN
+71
+Salamone, Isao
+MUSI.MGMT
+29
+Cotting, Mariana
+MKTG.POLS
+30
+Rafferty, Shahriar
+KSPR.PSYC
+6
+Faber, Vivian
+SOCI.BIOL
+86
+Millard, Toby
+ENGL.PHIL
+56
+Darrell, Lynnett
+GEOL.MUTC
+127
+Francis, Yamada
+KSPR.BIBL
+95
+Micua, Hsu
+CSCI.EDUC
+49
+Kiyota, Arnold
+ATTR.ART
+10
+Pedra, Terrie
+POLS.BSAD
+83
+Witte, Hisako
+SOCI.CHEM
+45
+Fassbender, Jock
+COMM.CSCI
+83
+Uga, Shoichi
+ACCT.COMM
+76
+Updike, Berta
+BIBL.BIOL
+2
+Peralto, Joel
+PSYC.PHYT
+3
+Umezu, Layne
+FINA+ACCT
+128
+Tonac, Alfred
+ENGL.POLS
+127
+Cordoban, Antone
+MKTG.PHIL
+76
+Rolfe, Elroy
+PHYT.COMM
+33
+Balico, Scot
+SOCI.MGMT
+89
+Freeman, Dick
+GEOL.BIOL
+124
+Baltazar, Motoshi
+PHYT+CSCI
+109
+Coughlan, Yamada
+MKTG.COHD
+122
+Wold, Hisako
+SCWK.COMM
+123
+Miki, Belly
+ACCT.PHYS
+13
+Kipilii, Marcelino
+NURS.MNST
+50
+Nguyen, Teruko
+NURS.PHYT
+72
+Quigg, Tameko
+FINA.MKTG
+103
+Jitchaku, Edna
+ATTR.MGMT
+89
+Jerusalem, Vicente
+MKTG.ENGL
+73
+Costales, Mickey
+PHIL+SOCI
+48
+Peneku, Lyle
+EDUC.CHEM
+50
+Frank, Yoshiro
+CHEM.ENGL
+34
+Wisler, Hisako
+KSPR.NURS
+34
+Wolff, Alfredo
+CHEM.MUSI
+63
+Yamamoto, Nympha
+ECON.THEO
+100
+Ikehara, Barbara
+PSYC.SPAN
+73
+Ragudo, Eric
+NURS.CSCI
+87
+Zoll, Virginia
+NURS.PHYS
+63
+Robledo, Sal
+MATH.CRIJ
+8
+Corcoran, Koe
+CHEM+SCWK
+31
+Luker, Karyn
+EDUC.NURS
+16
+Quesenberry, Yofu
+BSAD.SCWK
+31
+Fann, Donald
+THEO+NURS
+67
+Zee, Tsukasa
+MGMT.FINA
+46
+Peneueta, Andy
+PHYT.ART
+113
+Franke, Janos
+THEA.EDUC
+70
+Wilt, Nadine
+SCWK+NURS
+6
+Uting, Dione
+ENVM+CSCI
+66
+Nelson, Rynee
+SPEP.NURS
+37
+Glass, Craig
+SCWK+THEA
+105
+Understeller, Robin
+BSAD.MNST
+120
+Gimbel, Ichiwo
+HIST.MUSI
+21
+Tomyl, Jholito
+CRIJ.ENGL
+6
+Corby, Manuel
+THEA.ACCT
+3
+Highkin, Verne
+CHEM.PHIL
+31
+Hezekia, Herb
+BIOL.MUSI
+69
+Heydorn, Ole
+CSCI.ECON
+68
+Kinzie, Karyn
+FINA.HIST
+5
+Rohan, Natsu
+ATTR+CSCI
+74
+Dean, Alice
+FSSC+CHEM
+60
+Bangay, Denis
+THEO+MUSI
+74
+Glatt, Rosina
+BIOL.MUSI
+58
+Uriu, Wah
+ENVM.MATH
+126
+In, Danielle
+SOCI.ENGL
+70
+Wolchesky, Marky
+ACCT.NURS
+28
+Corum, Kazuko
+PSYC.SOCI
+30
+Sakal, Horace
+BIOL.MKTG
+43
+Ezzo, Yoshikazu
+CSCI.EDUC
+35
+Gimbel, Shizue
+BIBL.FSSC
+60
+Roldan, Rodrigo
+ACCT.CHEM
+34
+Rocero, Saichi
+ACCT+SOCI
+22
+Badon, Lewis
+POLS.SPAN
+87
+Bal, Marina
+PHIL.ECON
+16
+Fassett, Tante
+SPAN.ENGL
+116
+Luczak, Melvin
+ECON.PHYS
+76
+Nirei, Nobuto
+HIST.MNST
+87
+Quebec, Edith
+PHIL.NURS
+14
+Darrell, Kip
+HIST.BSAD
+92
+Abdy, Tito
+POLS.BIOL
+11
+Cornell, Goro
+FINA.SCWK
+45
+Neybert, Ho
+MNST.BIOL
+104
+Wylie, Stuart
+FSSC.PHYS
+20
+Cottini, Terry
+CHEM.ECON
+99
+Newlon, Daizo
+THEO.BIBL
+71
+Ujano, Shannon
+FSSC.ART
+92
+Farnham, Teru
+MUSI.BIOL
+10
+Luke, Damian
+ECON+MATH
+0
+Torp, Amado
+GEOL+BIBL
+101
+Godbey, Patrick
+PHYT.CRIJ
+96
+Daquigan, Soko
+NURS.SCWK
+100
+Ackerman, Leigh
+CHEM+BIBL
+82
+Roemer, Jody
+EDUC.MUSI
+15
+Usui, Masaji
+PHIL.FINA
+130
+Undem, Sadako
+BIBL.THEO
+70
+Luke, Kim
+ENVM.NURS
+49
+Jenkins, Kathy
+MUTC.PHIL
+115
+Roehr, Wayne
+SOCI.CRIJ
+114
+Wines, Shannon
+SCWK.PSYC
+79
+Penrose, Gloria
+COMM.SCWK
+61
+Newton, Ayato
+SPAN+FINA
+45
+Wohl, Sherrill
+THEA.ART
+52
+Updike, Natalie
+HIST.MUTC
+67
+Nguyen, Lawrence
+BIOL.THEA
+82
+Cottingham, Chester
+KSPR.THEO
+116
+Tomi, Emrich
+ENVM.COMM
+127
+Jernigan, Kazuko
+EDUC.ATTR
+114
+Vereze, Saxon
+MUTC.SCWK
+49
+Michel, Debbie
+PHIL.ATTR
+0
+Saldua, Fudeko
+KSPR.PHYS
+96
+Unrath, Hiromu
+PHYT.MGMT
+25
+Roller, Avelino
+FSSC.POLS
+89
+Everton, Sau
+FINA.ART
+0
+Page, Hajime
+COHD.MUSI
+103
+Wooddell, Shiro
+MUTC.CSCI
+11
+Gomberg, Earl
+ENVM.SOCI
+113
+Abdy, Kerry
+MUTC.COMM
+28
+Queja, Samuel
+POLS+FSSC
+24
+Tomozawa, Jmi
+CRIJ.SPEP
+47
+Abella, Gennie
+MNST.MGMT
+10
+Raffaelli, Ricarte
+ATTR.COHD
+44
+Kinney, Myles
+SPEP.PHYS
+46
+Saldana, Oliver
+ACCT.KSPR
+115
+Woodbury, Isho
+ACCT.ECON
+128
+Omundson, Eulogio
+PHYS.HIST
+6
+Evander, Anacleto
+BIBL.CHEM
+20
+Pelca, Ed
+NURS.FSSC
+6
+Imamoto, Dick
+CHEM.MGMT
+128
+Dawana, Barton
+SPAN.POLS
+78
+Kiviaho, Eldridge
+PSYC.GEOL
+53
+Couch, Harrison
+POLS.FINA
+68
+Milman, Elmer
+MUSI.MKTG
+21
+Queen, Rena
+COHD.ATTR
+60
+Tonini, Itsugi
+SCWK.POLS
+109
+Abran, Sadao
+BSAD.EDUC
+29
+Evans, Yoshitaka
+KSPR.MUTC
+108
+Kinman, Luana
+MUSI.FSSC
+55
+Quilausing, Irene
+EDUC.POLS
+52
+Ingerman, Lawrence
+PSYC.SCWK
+70
+Glendon, Finlay
+COMM.BIOL
+5
+Klesse, Laurence
+GEOL.BIOL
+119
+Kitsutani, Edwin
+FINA.PHYT
+85
+Onouye, Glenn
+SPEP.PHYS
+85
+Woolford, Felisia
+ENVM.KSPR
+8
+Nishibun, Robby
+CRIJ.PHYS
+103
+Ono, Miles
+MGMT.CSCI
+60
+Omoto, Therese
+HIST.ENVM
+59
+Hickson, Man
+ATTR.MUTC
+108
+Fabian, Donn
+MNST.FSSC
+50
+Fraleigh, Maile
+SOCI.MUSI
+44
+Zepeda, Sadami
+SOCI.BSAD
+100
+Baltero, Jmi
+CRIJ.NURS
+15
+Versteegh, Shun
+BIBL.POLS
+40
+Zigmond, Rene
+MKTG.PHIL
+38
+Fang, Lois
+ACCT.PSYC
+88
+Kino, Toshiyasu
+PHYS.SCWK
+68
+Kitaoka, Manley
+SPEP.PHYS
+83
+Yuskus, Hatsuo
+SPAN.COHD
+111
+Sales, Kanichi
+EDUC.MKTG
+63
+Baculpo, Tadayuki
+HIST.ACCT
+29
+Raeder, Vince
+THEO.BSAD
+24
+Zwicker, Kerri
+POLS.CHEM
+78
+Saladier, Khanh
+CRIJ.ECON
+38
+Raich, Gunichi
+BSAD.FSSC
+74
+Yalap, Kuulei
+MGMT.THEO
+20
+Peckham, Felix
+ECON.THEA
+25
+Miercort, Marla
+MNST.ENGL
+41
+Baillie, Patricia
+HIST+CRIJ
+124
+Oppenheimer, Sadami
+THEO.ART
+6
+Percell, Cindy
+CHEM.FINA
+61
+Tolton, Kraig
+PHYT.KSPR
+128
+Sakal, Riley
+THEO.BIOL
+47
+Torp, Joseph
+ART.PHYS
+67
+Bal, Patsy
+CRIJ.THEO
+118
+Lyly, Rufino
+ATTR.HIST
+70
+Fallau, Esteban
+ACCT.PHIL
+95
+Luck, Seichi
+PHIL+THEO
+25
+Lyerla, Milnor
+BIBL.PSYC
+8
+Omura, Neves
+THEA.BIOL
+15
+Vezina, Raphael
+NURS.BIOL
+79
+Freeze, Rickey
+PHYS.MGMT
+56
+Onaga, Valentin
+GEOL.BSAD
+62
+Nickelsen, Elena
+MNST.SOCI
+38
+Hildebrand, Elsie
+ART.MNST
+101
+Yadao, Delia
+NURS.ART
+125
+Ontiveros, Buck
+KSPR.MGMT
+73
+Abelaye, Nicanor
+MKTG.THEO
+123
+Zimmerman, Phil
+PSYC.FINA
+66
+France, Harlan
+NURS.THEA
+90
+Roldan, Adeline
+BSAD.ATTR
+3
+Michlig, Virgilio
+PHYT.HIST
+110
+Iltz, Hatsu
+SCWK.EDUC
+23
+Zabell, Alfred
+MNST.CSCI
+31
+Daunais, Joe
+CRIJ.MGMT
+32
+Rodolfo, Theo
+THEA+MATH
+38
+Michaelis, Tsukiyo
+FINA+HIST
+29
+Corsair, Eugenio
+PHYS.ART
+102
+Kistle, Felix
+ACCT.FSSC
+118
+Osaki, Hoichi
+POLS.PSYC
+55
+Fang, Les
+ART.PHYS
+11
+Tohara, Tadami
+SPEP.COMM
+42
+Acasio, Junichi
+ECON.THEA
+18
+Hilliard, Arleen
+FSSC.SCWK
+19
+Hewines, Yoshiro
+MUSI.PHIL
+16
+Jiampetti, Ray
+THEO.BIOL
+122
+Yrizarry, Marlon
+EDUC.KSPR
+24
+Versteegh, Laurence
+BSAD.COHD
+36
+Nii, Conrad
+SPEP.PHYS
+26
+Yamamoto, Jonas
+POLS.MUSI
+91
+Wo, Bud
+MGMT.KSPR
+71
+Loyd, Mary
+SPAN.EDUC
+33
+Wines, Jiro
+THEO.PHYS
+83
+Torger, Judy
+CHEM.FINA
+96
+Nesser, George
+SOCI+PHYS
+7
+Balinong, Merrie
+FSSC+MATH
+127
+Zilber, Tsugio
+ART.ENGL
+11
+Lumphrey, Ole
+MNST.PHYT
+50
+Peiss, Michelle
+BIBL.SPAN
+67
+Witthans, Fredk
+ECON.MUSI
+47
+Fraleigh, Henry
+EDUC+GEOL
+116
+Falos, Silverio
+GEOL.PHYS
+100
+Higashihara, Marisella
+KSPR.FSSC
+93
+Wittbrodt, Barbra
+NURS.COHD
+6
+Daunais, Panfilo
+COMM.PHIL
+124
+Lovejoy, Harvey
+ATTR.FSSC
+126
+Goeth, Emily
+MNST.ENGL
+127
+Abella, Randall
+NURS.CHEM
+117
+Nevin, Leslie
+COMM.POLS
+57
+Pertubal, Venassa
+ENVM.MUTC
+101
+Ezuka, Adolph
+PHIL.MNST
+27
+Lundgren, Blossom
+BIOL.KSPR
+59
+France, Daniel
+MNST+SPAN
+120
+Gillem, Jeff
+ENVM.MNST
+49
+Versteegh, Hitoshi
+MNST.MATH
+8
+Golisch, Adele
+THEA.CRIJ
+14
+Tompkins, Vince
+MUSI.BIBL
+81
+Corrales, Charlie
+ECON.EDUC
+41
+Sally, Romy
+MATH.BIOL
+38
+Jenette, Susumu
+MGMT.BSAD
+66
+Torger, Tarush
+EDUC.ENGL
+1
+Cormack, Shizuo
+HIST.THEA
+46
+Verge, Kimie
+SPEP+MNST
+40
+Bance, Petronilo
+SCWK+ECON
+109
+Goins, Sandra
+COMM.CHEM
+16
+Winegar, Jimenez
+KSPR.FSSC
+3
+Hillier, Gavino
+MUSI.ENVM
+74
+Witt, Russ
+HIST.ATTR
+0
+Lungren, Masao
+THEA+THEO
+13
+Zepeda, Rodney
+CRIJ.MUTC
+51
+Orallo, Stan
+CSCI.ECON
+51
+Nickless, Anne
+ART.MNST
+25
+Acob, Augustin
+MUSI.MNST
+91
+Zones, Hatsuko
+MGMT.ACCT
+127
+Wroblewski, Faye
+POLS.MUSI
+104
+Everton, Elmer
+GEOL.MGMT
+37
+Goebel, Eugenio
+MKTG.MUTC
+116
+Queen, Hatsuyoshi
+CSCI.BIOL
+4
+Quincey, Tsukiyo
+SPAN+PHYS
+94
+Godoy, Arsenio
+ECON.MGMT
+103
+Cordova, Jane
+MATH.NURS
+58
+Kissell, Natalie
+SOCI.FINA
+99
+Kipilii, Bud
+ACCT.MUSI
+2
+Love, Judith
+EDUC.ENGL
+51
+Hillier, Carol
+SPAN.BIBL
+59
+Unrath, Shirley
+ECON.SPAN
+84
+Wooden, Corazon
+SPEP.THEO
+75
+Ilae, Enrique
+BIOL.THEO
+124
+Lyman, Griffith
+PHYT.ACCT
+95
+Kissell, Mitsuo
+CRIJ.SCWK
+4
+Banaga, Hisashi
+EDUC+ACCT
+112
+Witthans, Basilio
+EDUC.GEOL
+86
+Lower, Woodrow
+SPAN.FINA
+65
+Underhill, Sandra
+PHYS.CHEM
+108
+Robins, Yofu
+MUTC.ATTR
+113
+Niau, Saint
+KSPR.SPEP
+12
+Frederick, Jon
+SPEP.BIBL
+88
+Raguindin, Fumio
+MATH.COMM
+52
+Kinny, Julia
+HIST.BSAD
+122
+Lung, Keith
+MGMT+SPEP
+119
+Cottey, Charlotte
+ACCT.ENVM
+125
+Farris, Junji
+SOCI.MUSI
+16
+Luiz, Fumiyuki
+ACCT.PHIL
+36
+Withenshaw, Jaymayne
+NURS+GEOL
+75
+Formanack, Peggy
+CSCI.FINA
+31
+Newberry, Tsugio
+COHD.ENGL
+99
+Ilaban, Roland
+HIST.ART
+99
+Niemi, Juanito
+MNST.ACCT
+78
+Higashino, Robbyn
+FSSC.PHIL
+103
+Niino, Andy
+MUTC.FINA
+23
+Nielson, Jose
+NURS+MKTG
+13
+Ueno, Colin
+KSPR.THEO
+3
+Giovannoliheidi, Harutoshi
+SPAN.PHYT
+29
+Wolverton, Hiroshi
+COHD.SCWK
+103
+Millare, Joe
+SOCI.KSPR
+86
+Nicholson, Ichiro
+EDUC+MKTG
+36
+Fredericks, Fabian
+PSYC.PHYT
+109
+Abel, Yvonne
+EDUC.MUTC
+65
+Higgins, Winfred
+ATTR.MNST
+100
+Lui, Kenji
+BIBL.BIOL
+53
+Golembeski, Rudy
+MGMT+POLS
+112
+Loveless, Dania
+BSAD.ART
+3
+Freeman, Lloyd
+ENGL.BIOL
+111
+Corah, Ernie
+PSYC.ART
+0
+Backmann, Motomu
+MNST.EDUC
+117
+Mijo, Edith
+THEO.MGMT
+90
+Toribio, Yok
+ENGL.KSPR
+50
+Yaeko, Glenn
+PHYS.MUTC
+125
+Nicoll, Bobby
+THEA.PHIL
+128
+Kiyotsuka, Wayne
+BSAD.SCWK
+52
+Kinney, Ebencio
+ECON.CHEM
+66
+Umayas, Hitoshi
+POLS.MATH
+40
+Vetterli, Kerwin
+PHYT.BIBL
+7
+Abat, Miriahm
+ACCT.EDUC
+58
+Bangert, Kip
+MUTC.ACCT
+129
+Quilausing, Stephan
+ACCT.MUSI
+55
+Peleholani, Ilde
+NURS.SCWK
+124
+Salisbury, Billy
+PSYC+ECON
+78
+Gilstrap, Joelene
+BIBL.ACCT
+115
+Torkelson, Harold
+ECON.MNST
+2
+Vicente, Carolyn
+COHD.MATH
+24
+Kishinami, Peggy
+NURS.ATTR
+75
+Goddard, Douglas
+ECON.ART
+120
+Franklin, In
+PSYC.ART
+25
+Zachary, Mits
+PHYT.PSYC
+104
+Sakamoto, Dawn
+ECON.CHEM
+78
+Everly, Crispino
+MUSI.SPEP
+71
+Zifchock, Isaac
+BIBL+ENVM
+72
+Coughenour, Takao
+KSPR.MGMT
+72
+Nicholson, Shigeji
+THEO.SPAN
+64
+Balucan, Stillman
+COMM.FSSC
+74
+Sales, Connie
+MGMT.ENGL
+67
+Hiebler, Nigel
+ART+COHD
+117
+Wolfer, Norbert
+ACCT.MKTG
+19
+Sakihara, Eugene
+BIOL.PHYS
+21
+Nihau, Rowland
+MUSI.ACCT
+64
+Klikoff, Gillespie
+SOCI.MATH
+58
+Davidovich, Polly
+THEO.COHD
+50
+Nier, Loren
+MUSI.ECON
+90
+Wond, Anselmo
+PSYC.THEO
+2
+Baker, Mariana
+POLS.SCWK
+4
+Das, Terrence
+HIST.MNST
+110
+Kipi, Veryn
+PHIL.CHEM
+96
+Cote, Tane
+ENVM.POLS
+16
+Dayanan, Hiroshi
+HIST.BIBL
+18
+Michael, Slator
+ENGL.SPAN
+95
+Michaelson, Kiyomasa
+EDUC+COHD
+122
+Fosdick, Mike
+PHYT.NURS
+113
+Copp, Teru
+CRIJ.PSYC
+110
+Uehara, Kehau
+ENGL.FINA
+97
+Wo, Alberta
+SOCI.THEO
+28
+Fajardo, Tanya
+EDUC.MUTC
+73
+Dansie, Florence
+PHYS.PSYC
+11
+Banashek, Farawell
+ENGL.CSCI
+92
+Wolter, Felinor
+SPEP.MATH
+16
+Sakimura, Sadie
+MNST.COMM
+97
+Farnham, Marky
+BIBL.BSAD
+103
+Wohlgemuth, Joseph
+ENVM+SCWK
+110
+Worden, Berthold
+MGMT.KSPR
+47
+Ulmer, Ichiwo
+GEOL.ENGL
+18
+Danna, Rex
+MUTC.BIBL
+119
+Francisco, Niels
+MKTG.THEA
+120
+Klemme, Trevor
+CRIJ.MGMT
+121
+Goldsmith, Glenda
+BSAD.CHEM
+41
+Farmer, Vashti
+GEOL.BSAD
+75
+Godshall, Christine
+SPEP.MUTC
+25
+Abalos, Evarts
+ENVM.CHEM
+75
+Acasio, Barbara
+BIOL.MGMT
+95
+Sallee, Nicholas
+POLS.CRIJ
+82
+Urbanozo, Vladimir
+MUSI.POLS
+19
+Toepker, Bertram
+HIST+BIBL
+34
+Salsbury, Matsutaro
+KSPR+NURS
+0
+Quebec, Yaichi
+FINA.MKTG
+129
+Imaino, Conrad
+SPAN.THEO
+73
+Lyerla, Virginia
+BSAD.SPEP
+92
+Roensch, Barry
+HIST.MUSI
+34
+Orio, Reynaldo
+HIST.ATTR
+120
+Evans, Danny
+NURS.COMM
+106
+Peddicord, Russell
+FINA+MUSI
+10
+Woodward, Masae
+CRIJ.COMM
+86
+Witte, Matthew
+COMM.ECON
+67
+Worland, Stacy
+NURS.MATH
+108
+Hickey, Valerie
+MUTC.MUSI
+127
+Gilreath, Alfred
+MNST.COHD
+104
+Kishinami, Janos
+POLS.SCWK
+62
+Quiocho, Rene
+MKTG.CRIJ
+121
+Yu, Nathan
+MATH.BSAD
+48
+Vestal, Cody
+CRIJ.SOCI
+74
+Fahringer, Sau
+HIST.PHIL
+112
+Couch, Kerrie
+SCWK.ENVM
+23
+Ludwick, Lani
+CRIJ.BIBL
+122
+Wise, Takehiro
+BIOL.PHYS
+55
+Quirit, Polly
+MGMT+EDUC
+44
+Jobes, Collins
+CHEM.MNST
+40
+Jernstrom, Calley
+MATH.EDUC
+86
+Undem, Philip
+KSPR.POLS
+76
+Ngirmidol, Brad
+PSYC.SCWK
+92
+Togia, Rosita
+BSAD.SCWK
+7
+Toguchi, Shoichi
+COMM.ATTR
+117
+Worth, Mitsugi
+ENVM.MGMT
+58
+Vetsch, Moto
+ECON+SPEP
+22
+Abraham, Miyoshi
+ART.PHYS
+65
+Franks, Frederico
+BSAD.MNST
+105
+Lovelace, Shigeto
+MUSI.SPAN
+63
+Gillaspie, Harris
+COMM.CSCI
+55
+Ball, Yoichi
+PHYS.CHEM
+19
+Debus, Russ
+ART.ACCT
+23
+Jenette, Oren
+THEA.THEO
+81
+Witt, Estanislao
+THEA.COHD
+0
+Deblasi, Gillette
+SOCI.SCWK
+113
+Kishaba, Abraham
+ACCT.COHD
+15
+Pell, Mitsuko
+FSSC.ART
+119
+Mich, Debra
+POLS.CSCI
+82
+Ralphs, Trina
+POLS.ENGL
+81
+Correa, Vanessa
+MKTG.ENVM
+120
+Ragland, Deen
+MNST.MUTC
+30
+Raffaelli, Hale
+PHIL.THEO
+109
+Wold, Dexter
+THEA.ENGL
+86
+Cotting, Laine
+ART.SOCI
+107
+Fajardo, Esteban
+KSPR.EDUC
+91
+Urban, Clay
+GEOL.FSSC
+123
+Goins, Jitsuo
+COMM.SPEP
+91
+Kjostad, Takeo
+THEO.PHYT
+17
+Abelaye, Mau
+FSSC.COHD
+14
+Klempan, Naomi
+GEOL+FSSC
+96
+Yugawa, Saint
+BIOL.THEA
+6
+Uga, Billie
+THEA.KSPR
+0
+Salboro, Patty
+THEO.KSPR
+81
+Ura, Rae
+MUSI.MNST
+97
+Millar, Emily
+CRIJ+ACCT
+26
+Luis, Dave
+ACCT.NURS
+18
+Zeissler, Arsenio
+CSCI.ECON
+0
+Zumwalt, Harry
+SCWK.MKTG
+86
+Ng, Kenji
+MNST.CHEM
+29
+Umeki, Dane
+KSPR.MUSI
+50
+Falsetta, Minerva
+PSYC.HIST
+84
+Zimbra, Minori
+GEOL.BIOL
+41
+Lovernich, Morio
+GEOL.THEO
+3
+Ballao, Danielle
+THEA.COHD
+73
+Kirley, Mitsue
+COMM.ATTR
+127
+Balmilero, Crispino
+ART.PSYC
+106
+Kitts, Mason
+GEOL.CSCI
+68
+Eudaley, Ray
+FINA.PSYC
+107
+Yamakawa, Taichi
+GEOL.KSPR
+90
+Michael, Elaine
+ART.THEA
+66
+Baine, Toni
+MKTG.SOCI
+23
+Miki, Ian
+BIBL.PHYT
+87
+Countess, Masako
+PHYT.SPAN
+61
+Heuer, Kelvin
+THEO.HIST
+16
+Yumoto, Dona
+ART.SCWK
+41
+Wise, Finlay
+CHEM.ENGL
+130
+Mikul, Sophia
+POLS.MATH
+82
+Peleholani, Naomi
+EDUC.PHIL
+110
+Imada, Nat
+ENGL+CRIJ
+57
+Tomi, Selvino
+BIOL.PHYT
+20
+Acor, Ron
+POLS.PHIL
+29
+Versluys, Emory
+ATTR.KSPR
+57
+Yahiro, Soichi
+MUSI.HIST
+90
+Winslow, Mackay
+ECON.THEO
+85
+Farwell, Moya
+PHYS.ACCT
+124
+Zepeda, Sherrell
+CRIJ.ENVM
+69
+Ngaden, Duane
+SOCI+COHD
+81
+Faber, Jocelyn
+BIBL.SPEP
+68
+Banfe, Melody
+POLS.BIOL
+33
+Rains, Kelli
+BIOL.NURS
+33
+Yamanoha, Ernie
+SPAN.MGMT
+77
+Oshiba, Raeder
+MUTC.ENVM
+128
+Onodera, Sotero
+ECON.BIBL
+28
+Ragual, Philip
+MNST.CHEM
+95
+Winge, Adeline
+NURS.CSCI
+101
+Pennington, Gunichi
+COMM.BIBL
+34
+Fraser, Fruto
+ACCT.MUSI
+27
+Goldstein, Satto
+ATTR.ART
+96
+Dasalla, Stanley
+FINA.NURS
+112
+Achittien, Brian
+FINA.PHIL
+14
+Kitzler, Sal
+CHEM.POLS
+72
+Ikenberry, Ira
+SPEP.MGMT
+64
+Banegas, Nelson
+KSPR.BSAD
+113
+Zimring, Delan
+COHD.MUTC
+40
+Estrada, Barbara
+CHEM.POLS
+21
+Wung, Yonemasa
+CHEM.MGMT
+47
+Zwicker, Kaoru
+ENGL.THEA
+101
+Tomei, Lorraine
+COMM+SCWK
+6
+Abreu, Winfred
+FSSC.THEO
+17
+Deblasi, Carlin
+MUTC.SPAN
+60
+Milanowski, Alex
+BIOL.FSSC
+110
+Wooldridge, Sherrie
+ENGL.SOCI
+23
+Peel, Ken
+PSYC.PHYT
+56
+Yadao, Heidi
+FINA.COHD
+72
+Togawa, Marcia
+KSPR.BIBL
+33
+Balada, Rynee
+MATH.GEOL
+67
+Wyllie, Micah
+BIBL.THEO
+56
+Corum, Buei
+ENGL.MNST
+100
+Ragocos, Benedict
+POLS.MUTC
+27
+Wilson, Sen
+MKTG+MUTC
+73
+Lutterman, August
+PHIL.COHD
+80
+Zee, Taizo
+GEOL+SOCI
+29
+Balada, Patti
+ENVM.SPAN
+77
+Ing, Kenichi
+EDUC.MUSI
+52
+Yaberg, Florencio
+KSPR.BIOL
+102
+Jenkins, Mario
+THEA.PHIL
+40
+Fang, Joe
+ENVM.CHEM
+40
+Wohlfarth, Kame
+PHIL.ENVM
+87
+Woerner, Jaime
+POLS+PHIL
+31
+Lutter, Debbie
+HIST.COHD
+16
+Farcus, Satoru
+ATTR.ECON
+3
+Pekelo, Dawn
+ENGL+BIBL
+36
+Adachi, Yutaka
+ENVM.PHYS
+119
+Glory, Thi
+FINA.MUSI
+77
+Zilka, Lani
+ACCT.SPEP
+84
+Yuhas, Jonas
+KSPR.COHD
+116
+Factora, Marcel
+CSCI.CHEM
+1
+Ragsdale, Bob
+MGMT.MATH
+69
+Robinson, Byron
+CSCI.ATTR
+17
+Farnworth, Royce
+CHEM.ART
+122
+Giles, Fudeko
+MKTG.KSPR
+74
+Nicoloff, Gilbert
+BIBL.MATH
+44
+Unebasami, Nicolas
+ENGL.GEOL
+96
+Radical, Hanechi
+ART.FSSC
+80
+Orencillo, Tiofilo
+ECON.EDUC
+97
+Dante, Jesus
+COHD+KSPR
+99
+Higa, Eric
+BIBL.MATH
+81
+Wroblewski, Curtiss
+SOCI.PHYS
+42
+Roensch, Evelyn
+ENGL.PSYC
+30
+Vernola, Marisella
+CRIJ+ECON
+94
+Rogan, Derrick
+POLS.THEO
+118
+Woody, Naaman
+SOCI+ENGL
+79
+Quiroz, Kawai
+THEA.PHYS
+35
+Salsbury, Razia
+ATTR.ENVM
+91
+Goldstine, Finlay
+FSSC.COMM
+6
+Uina, Roderick
+ATTR.GEOL
+111
+Pennell, Houston
+SPAN.FSSC
+51
+Deboer, Patti
+CHEM.ATTR
+127
+Inkster, Garry
+BIBL.SPEP
+119
+Ilar, Joane
+SPEP.KSPR
+47
+Nettnin, Shawne
+ACCT.CSCI
+111
+Kissell, Tasca
+THEA.SOCI
+112
+Rodakowski, Yoshimasa
+EDUC.ECON
+87
+Ikeda, Caroline
+THEA+ACCT
+110
+Nespor, Adolfo
+EDUC+ECON
+123
+Underhill, Hatsuyoshi
+MGMT+ECON
+67
+Farnsworth, Frederico
+ACCT.ENGL
+127
+Robson, Sebastiana
+MNST.ART
+121
+Salmo, Satto
+PSYC.MGMT
+86
+Klaue, Joan
+GEOL.FSSC
+93
+Heuer, Masaji
+SCWK.MKTG
+17
+Peek, Randy
+ENGL.CSCI
+33
+Badger, Edith
+BSAD.MUSI
+35
+Lupo, Carey
+ATTR.ACCT
+14
+Baji, Domingo
+PHIL.SOCI
+102
+Winters, Masako
+ECON.ENGL
+3
+Topol, Arlene
+PSYC.COHD
+37
+Gisler, Juan
+PHYT.BIOL
+21
+Kirker, Trina
+ENGL.FSSC
+28
+Sajor, Carmen
+ART+FSSC
+17
+Miike, Hong
+PHYS+ENGL
+44
+Cordero, Winnie
+COHD+EDUC
+2
+Ramey, Matsuno
+SPEP.PHIL
+58
+Kise, Joane
+FINA.ENVM
+72
+Uriu, Leroy
+MKTG.BIBL
+70
+Usunomiya, Herbert
+EDUC.MUSI
+96
+Oreta, Itsuo
+CRIJ.FSSC
+103
+Rohner, Miyoshi
+ENGL.MGMT
+36
+Tom, Fukui
+POLS.ENGL
+23
+Salboro, Brent
+SOCI+SCWK
+43
+Ballesteros, Lyndon
+PHIL.MATH
+79
+Pegeder, Ralph
+GEOL+KSPR
+21
+Bacon, Gerard
+THEA+MKTG
+45
+Baguio, Adela
+SOCI.MKTG
+92
+Rabusitz, Ryuichi
+CSCI.MUSI
+43
+Etheridge, Yoshikazu
+SCWK.COMM
+13
+Robinett, George
+MUSI.THEA
+125
+Dawrs, Danl
+SCWK.PSYC
+106
+Onouye, Sepehr
+MNST.FSSC
+98
+Rocero, Dolores
+BSAD.PHYT
+129
+Ramiscal, Faith
+MGMT.EDUC
+75
+Peleholani, Jiro
+PHYT.ART
+17
+Acdal, Yvonne
+ENGL.MATH
+41
+Quitan, Anastacio
+MGMT.SOCI
+19
+Fasciano, Cody
+NURS.ENGL
+89
+Woitel, Hal
+PHYS.PSYC
+76
+Debenedetti, Heidi
+THEA.CHEM
+72
+Quon, Leighton
+MGMT.BIBL
+75
+Saladier, Alva
+BIBL.NURS
+51
+Ordell, Yoshiro
+ART.CHEM
+91
+Tomas, Layne
+MKTG.THEO
+12
+Baculpo, Harris
+COHD.SPAN
+103
+Luiz, Silvia
+FINA.BSAD
+28
+Jiampetti, Sanjiro
+MUSI+MNST
+128
+Abadilla, Carey
+GEOL.CRIJ
+103
+Faleofa, Clarito
+HIST.BSAD
+2
+Bance, Margo
+COMM.PHYT
+105
+Abdul, Clarence
+SPEP.MUTC
+99
+Freeze, Andy
+SOCI.COHD
+45
+Quitiquit, Garrett
+ENGL+MUTC
+10
+Kini, Sanae
+MATH.MKTG
+3
+Oshiro, Stella
+FINA+COHD
+104
+Farinas, Hatsuo
+MNST.MKTG
+9
+Abrahams, Jody
+KSPR.HIST
+38
+Goldman, Delia
+MUSI.CHEM
+122
+Pederson, Amado
+CHEM+COMM
+28
+Radford, Alexander
+CHEM.HIST
+93
+Godbold, Mikaela
+PSYC.CHEM
+125
+Kirker, Nicolas
+SOCI.BSAD
+119
+Zavala, Joise
+ECON.FINA
+114
+Acacio, Frank
+SOCI.PHYT
+85
+Cormack, Tokio
+THEO.MUTC
+129
+Zieger, Tanya
+NURS.CSCI
+54
+Pearce, Luika
+CSCI.CRIJ
+88
+Cottrell, Sachiko
+EDUC+CSCI
+85
+Woollard, Mildred
+PHYS.MATH
+23
+Peppell, Clarence
+COMM.ENVM
+105
+Lower, Bertram
+BSAD.CRIJ
+86
+Ono, Claude
+THEO.ECON
+106
+Zak, Tsukiyo
+MNST.BIBL
+120
+Lutz, Junichi
+MUTC.SOCI
+40
+Page, Burny
+CSCI+NURS
+96
+Lovell, Naomi
+PHIL.ECON
+8
+Nickelsen, Thomasine
+COMM.CSCI
+31
+Migliori, Tetsuya
+MKTG.PHYS
+49
+Dawrs, Patty
+MGMT.SCWK
+36
+Jeremiah, Benedict
+COMM.PSYC
+46
+Gilmore, Lloyd
+PSYC.POLS
+86
+Niiya, Denice
+ENVM.NURS
+21
+Nicoll, Deanna
+FSSC.ACCT
+51
+Mikami, Leland
+EDUC.SCWK
+52
+Ungerecht, Ho
+GEOL.PHYT
+66
+Kipapa, Doroteo
+FINA.HIST
+129
+Jim, Ichiwo
+MUTC.CRIJ
+19
+Ramos, Marciano
+ATTR.PHIL
+45
+Winter, Enrique
+PHIL.COMM
+39
+Bader, Junichi
+KSPR.SOCI
+11
+Percival, Andrea
+MATH.NURS
+41
+Nihipali, Freda
+BSAD.MKTG
+78
+Salmers, Brad
+ACCT.COHD
+71
+Lukeala, Nigel
+PHYT.MUTC
+29
+Zeuch, Randall
+SPAN.ENGL
+127
+Milton, Mitzi
+SCWK.PSYC
+74
+Balucan, Joann
+FSSC.PHYT
+85
+Luizzi, Cansio
+BIOL+CSCI
+100
+Miday, Leonora
+SPAN.COHD
+16
+Miler, Truman
+MUTC.COHD
+81
+Yalemar, Frederico
+MKTG.MUTC
+103
+Gilman, Carmelo
+COHD.PHYS
+46
+Perlette, Yasutami
+ECON.ENVM
+75
+Baguio, Philip
+NURS.COMM
+34
+Pearson, Rannette
+THEA.MUTC
+34
+Faryar, Tsuyoshi
+THEO.ART
+23
+Datta, Donn
+FSSC.COMM
+91
+Winkler, Jeanette
+GEOL.ECON
+114
+Robitaille, Ian
+SPEP.MATH
+96
+Jocson, Chad
+THEO.FINA
+13
+Peischel, Michael
+COMM.HIST
+28
+Tomiyama, Mitoru
+PHYT+KSPR
+3
+Lutter, Corky
+MUSI.ATTR
+92
+Yamaguchi, Nobuyoshi
+SOCI.THEO
+18
+Fabian, Ignacio
+SPEP.SPAN
+109
+Godbold, Benny
+PSYC+FINA
+104
+Dato, Joelene
+HIST+PHIL
+83
+Golding, Lyndon
+PHYS.PSYC
+67
+Faeth, Wendell
+THEA.MUTC
+77
+Cotting, Myles
+ACCT.MNST
+105
+Lozano, Haruo
+BSAD+SPEP
+10
+Abel, Janell
+SOCI.NURS
+0
+Nicoll, Howard
+ACCT.PHIL
+4
+Torchio, Pamela
+MNST.SOCI
+49
+Pertubal, Pat
+HIST.ATTR
+27
+Withers, Arsenio
+NURS.FINA
+115
+Yukuno, Johnson
+GEOL.CHEM
+73
+Quaintance, Danny
+THEO.POLS
+45
+Banaga, Samz
+THEA.ATTR
+82
+Balai, Verne
+GEOL.CSCI
+11
+Uemoto, Pancho
+ART.THEO
+17
+Newell, Raynard
+MGMT.ECON
+55
+Rodakowski, Hideshi
+MUSI.ART
+6
+Onishi, Anselmo
+ENVM.POLS
+120
+Sakihara, Vance
+ACCT+BIBL
+29
+Gold, Alberta
+MGMT.ART
+75
+Yukuno, Homer
+ECON.MNST
+120
+Jett, Warren
+CRIJ.MUSI
+95
+Foster, Alfonso
+ENGL.THEA
+130
+Faber, Nicki
+COMM.MKTG
+94
+Wyburg, Hank
+SCWK.FINA
+91
+Yagi, Tess
+NURS.BIOL
+89
+Onouye, Tanah
+KSPR.COMM
+9
+Hidalgo, Julius
+CHEM+ATTR
+94
+Omoto, Kip
+MUSI.HIST
+9
+Kiyosaki, Leanne
+MGMT.ART
+123
+Worth, Jeudi
+MKTG+CSCI
+75
+Osato, Kiyoto
+MUTC.CRIJ
+76
+Klempan, Fran
+BSAD.ENGL
+67
+Farrell, Vicente
+NURS.PSYC
+112
+Ginoza, Margie
+PSYC.BIOL
+16
+Dart, Teofilo
+CHEM.PHIL
+16
+Raappana, Rufino
+ATTR.POLS
+112
+Orencillo, Johanna
+MATH.ACCT
+24
+Zelko, Kim
+HIST+ECON
+2
+Lungren, Kamaka
+KSPR.ATTR
+45
+Imamura, Norman
+SPEP+BSAD
+95
+Abiley, Wilton
+PSYC.BIOL
+74
+Mickiewicz, Kal
+MGMT.MKTG
+61
+Nishibe, Dickie
+MATH.POLS
+20
+Nezu, Marcela
+HIST.ACCT
+92
+Gillam, Cyrus
+MUTC.MKTG
+85
+Gillette, Deborah
+BIBL.MATH
+86
+Pervinkler, Randy
+THEO.ECON
+101
+Yahiku, Tsuneo
+FSSC+KSPR
+66
+Kishino, Setsuko
+HIST.THEO
+87
+Dearborn, Yun
+KSPR.ECON
+62
+Peltier, Karri
+ART.THEA
+86
+Abran, Yamada
+SPAN.EDUC
+2
+Peregrino, Wadel
+PHYS.FSSC
+4
+Farnsworth, Mitoru
+CSCI.PHYT
+1
+Toralba, Wilfred
+EDUC.NURS
+10
+Ramirez, Seiji
+CRIJ.NURS
+90
+Michael, Wai
+COHD.MNST
+124
+Glasgow, Penny
+ENGL.FINA
+84
+Balsis, Eldridge
+PHIL.CSCI
+47
+Dante, Claude
+FINA.BIOL
+127
+Debus, Saichi
+FINA.ECON
+73
+Balsis, Fruto
+ENVM.MATH
+21
+Wissing, Mitzi
+ENGL.MATH
+23
+Rogan, Norbert
+HIST.BSAD
+14
+Ongais, Raymond
+COMM.MGMT
+29
+Nessen, Owen
+PHYS.ENGL
+109
+Lundburg, Gregorio
+HIST.ATTR
+16
+Niino, Patsy
+ART.PHYS
+130
+Cotting, Kazuko
+CSCI.MKTG
+96
+Usina, Cecelia
+SCWK.ENVM
+87
+Omundson, Gloria
+ART.POLS
+124
+Radovich, Charlotte
+CSCI.MNST
+121
+Jett, Satomi
+SPAN.SCWK
+122
+Higaki, Kuuipo
+ENGL.CHEM
+16
+Deblasi, Isamu
+CSCI.SCWK
+60
+Rocker, Eugenio
+PSYC.BIBL
+94
+Gilreath, Yeichi
+ENVM.ECON
+116
+Jeschke, Tyrone
+SPEP.PHIL
+4
+Osaka, Jim
+ART.PSYC
+67
+Wissing, Chester
+SCWK+GEOL
+1
+Imamoto, Chitose
+PHIL.ART
+101
+Corsair, Randi
+PSYC.MKTG
+106
+Salamone, Terri
+SOCI.BIBL
+77
+Quigley, Kalei
+BIOL.SPAN
+30
+Quitan, Barbara
+PHYS.EDUC
+118
+Lukela, Rena
+MKTG.PHYS
+120
+Etrata, Santana
+PHIL.SOCI
+54
+Lower, Keichi
+ENVM.THEA
+16
+Aaserude, Corbin
+CHEM.MATH
+19
+Pyburn, Emory
+PHYT.MGMT
+11
+Zamrzla, Kamalo
+NURS.SPEP
+128
+Yamanouchi, Jitsuo
+GEOL.BIBL
+111
+Ingalls, Rene
+SPAN+ECON
+86
+Jens, Komatsu
+SOCI.EDUC
+56
+Acantilado, Dora
+BIBL.ATTR
+38
+Baguio, Yee
+SCWK.MUTC
+30
+Cordero, Nathan
+BIOL.ENVM
+79
+Cortel, Asao
+COHD.ART
+116
+Davenport, Takehiro
+NURS.COMM
+102
+Ragland, Donicio
+PSYC+NURS
+40
+Ulz, Edgar
+ECON.BSAD
+78
+Salazar, Leonora
+PSYC.ECON
+55
+Quitan, Eulogio
+PSYC.ECON
+126
+Peel, Shinse
+ENGL+MATH
+15
+Usibelli, Harue
+BIOL.ENGL
+123
+Rains, Cameron
+BIOL.MUSI
+129
+Gokey, Blaine
+THEO.CHEM
+59
+Tomkinson, Taizo
+MGMT.SPAN
+74
+Peckham, Benj
+PHYT.PHYS
+4
+Yuda, Earl
+MGMT.CRIJ
+15
+In, Hatsugoro
+SPEP.EDUC
+70
+Tokuyoshi, Ichio
+MKTG.KSPR
+17
+Radl, Austin
+MATH.CRIJ
+42
+Nigro, Calvin
+CRIJ.COMM
+72
+Costanzo, Luika
+ART.CRIJ
+38
+Costales, Sherrie
+FINA.PSYC
+41
+Unis, Clarke
+SPEP.EDUC
+7
+Foruria, Hatsuo
+ART.BIOL
+52
+Rabuska, Josephine
+MUSI.KSPR
+79
+Roe, Fudeko
+PHYT.SPEP
+87
+Wishard, Winfred
+ENGL.MKTG
+120
+Miklautsch, Jeanne
+MKTG.MUSI
+15
+Salmo, Justin
+MGMT.ACCT
+42
+Pelca, Deidre
+MUSI.KSPR
+50
+Quinton, Mack
+MATH.MUSI
+105
+Hickok, Muneo
+MGMT.COHD
+60
+Cope, Damian
+CHEM+COHD
+93
+Acor, Nancy
+THEO.ATTR
+35
+Debenedetti, Piilani
+PSYC.MKTG
+64
+Salmo, Pierce
+ECON.SPAN
+48
+Godfrey, Shigeru
+ACCT.MGMT
+86
+Quibol, Alick
+MUSI.PHIL
+23
+Pedersen, Caroline
+HIST.ART
+65
+Yabes, Erna
+GEOL.MUSI
+82
+Lundborg, Itsugi
+ACCT.PHIL
+6
+Giovannoli, Alick
+EDUC.MUTC
+105
+Everest, Sammie
+SPAN.CSCI
+43
+Acheson, Fumio
+THEO.KSPR
+24
+Zackular, Kenneth
+CRIJ.SOCI
+0
+Quist, Aiko
+MUSI.MGMT
+123
+Fordham, Kikuichi
+ATTR.GEOL
+116
+Baldado, Eric
+PHIL.COHD
+55
+Faeth, Hiroko
+SPEP.PSYC
+117
+Onorato, Joe
+CRIJ+POLS
+95
+Daum, Hichiro
+ENGL.FSSC
+44
+Wimsatt, Kristi
+ECON.PSYC
+57
+Radeke, Akira
+PHYS+CHEM
+74
+Ushiroda, Terrie
+MUSI+ACCT
+8
+Versluys, Homer
+PSYC.MUTC
+4
+Familar, Choy
+POLS.ENGL
+68
+Woelke, Nathan
+MUSI.HIST
+53
+Frack, Alick
+SPEP.HIST
+125
+Orozco, Taichi
+PHYS.MNST
+130
+Gold, Yee
+EDUC.MATH
+67
+Pearce, Rick
+BSAD.ART
+111
+Giudice, Clarito
+ENVM.EDUC
+37
+Luthe, Orlando
+BSAD+PHYT
+4
+Worrell, Marcelino
+HIST.THEA
+11
+Fortney, Leonard
+MUSI.SOCI
+121
+Abdy, Julie
+MUTC.SCWK
+71
+Dawes, Felinor
+MKTG.GEOL
+25
+Dawson, Motoyoshi
+SPAN.COHD
+78
+Balmores, Virgil
+ECON.BIOL
+126
+Toriano, Alberto
+SPAN.ATTR
+63
+Witty, Lee
+PSYC.ENVM
+18
+Quimby, Pablo
+BIOL.SPAN
+32
+Pyre, Stella
+PSYC.COHD
+98
+Golembeski, Shuko
+CSCI.MATH
+41
+Yuki, Wong
+ENGL.BIBL
+49
+Zapara, Kile
+PHYS.SPAN
+117
+Coughlan, Hideo
+MUSI.MNST
+47
+Raffaelli, Terrie
+THEA.MKTG
+27
+Ortiz, Stacy
+FSSC.ENVM
+122
+Zenk, Susumu
+PHYT.MATH
+70
+Osawa, Dora
+CSCI.PHYT
+15
+Inman, Matsuo
+SCWK.ENVM
+105
+Fahey, Adriano
+COHD.BIOL
+53
+Gingrich, Carlos
+PHYT.FSSC
+85
+Newbury, Homer
+THEA.SPEP
+72
+Underwood, Sylvie
+ATTR.SCWK
+69
+Wilt, Luika
+ENGL.MNST
+103
+Gleason, Emily
+SCWK.COMM
+50
+Rabusitz, Hershall
+POLS.FSSC
+34
+Woodbury, Takeo
+CSCI.PHIL
+69
+Oshima, Olga
+BIOL.THEO
+46
+Quanan, Oren
+ECON.MUSI
+62
+Ewing, Hisao
+BIBL+MGMT
+64
+Onaga, Karri
+THEA.COHD
+20
+Roehr, Ruby
+SCWK.PSYC
+102
+Withenshaw, Ann
+FINA.PHYT
+124
+Fotenos, Nigel
+PHIL.SPEP
+61
+Omuro, Mariana
+ATTR.PHYS
+26
+Gollaher, Sinh
+FSSC.BIOL
+64
+Ackerman, Clark
+MATH.POLS
+83
+Ongais, Margit
+HIST.PSYC
+10
+Pervinkler, Andy
+BIOL.ECON
+101
+Niiyama, Leon
+COHD+SOCI
+86
+Forst, Junichi
+MUTC.COHD
+31
+Frasco, Carolyn
+EDUC.CSCI
+10
+Coronel, Soko
+SCWK.THEA
+12
+Uwono, Kevan
+CRIJ.BSAD
+117
+Utrera, Silom
+MUTC.SPEP
+8
+Rodman, Roger
+MUSI+THEO
+58
+Rabena, Tetsuya
+THEO.PSYC
+99
+Yahata, Delan
+PHYS.MGMT
+58
+Jeter, Lisa
+MNST.BSAD
+78
+Kjostad, Laura
+THEA.BIBL
+51
+Everett, Bunichi
+COMM.PHIL
+44
+Ulmer, Scott
+ACCT.MATH
+8
+Pedro, Romy
+ART+ENGL
+27
+Wirth, Arthur
+PHYS.ENGL
+69
+Bade, Harold
+ENGL.SOCI
+33
+Foust, Grayson
+ACCT+MUSI
+60
+Badger, Ichiro
+ENVM.MKTG
+118
+Ikemori, Vern
+MKTG.HIST
+63
+Glatt, Berta
+THEA.POLS
+25
+Acor, Rufino
+HIST.KSPR
+61
+Oshaughnessy, Pauline
+CHEM.HIST
+41
+Ramos, Takehiro
+CRIJ.ATTR
+83
+Wo, Willy
+CSCI.MUTC
+33
+Golds, Shaunna
+PHIL.ATTR
+15
+Loyola, Buzz
+MGMT.ART
+109
+Fall, Shieo
+CRIJ.FSSC
+72
+Tomita, Yvonne
+NURS.EDUC
+86
+Nilan, Gary
+EDUC.SPAN
+33
+Yurong, Lyle
+PHYT.ATTR
+128
+Perreira, Lisa
+POLS.SOCI
+62
+Torchio, Pearson
+COHD+THEA
+50
+Tokuuke, Stan
+BSAD.SPEP
+117
+Jerome, Norman
+ART.EDUC
+119
+Miday, Adriano
+FINA.PHIL
+67
+Yumoto, Ole
+ECON.FSSC
+53
+Wolter, Yok
+SOCI.SPAN
+51
+Goings, Howard
+ATTR.FSSC
+111
+Vernola, Hatsuyoshi
+CSCI+THEA
+4
+Yadao, Mits
+CHEM.THEO
+85
+Millers, Teotila
+THEO.SOCI
+71
+Racho, Marky
+MGMT.ART
+126
+Rahe, Billie
+EDUC.KSPR
+27
+Gindler, Patsy
+CRIJ.PSYC
+100
+Salmon, Hatsuyo
+CHEM.MATH
+65
+Witty, Asao
+MNST.GEOL
+63
+Glass, Giovannoliheidi
+PHIL.THEO
+37
+Fahringer, Roger
+ECON.SOCI
+71
+Zerial, Neves
+ECON.ENVM
+42
+Saito, Nadine
+PSYC.PHYS
+101
+Urmeneta, Don
+HIST.BSAD
+121
+Togia, Silvia
+FSSC.THEA
+47
+Toriano, Haruko
+SCWK.MUSI
+85
+Nielson, Arsenio
+MATH.SPEP
+101
+Radeke, Kile
+ECON.HIST
+56
+Miereanu, Vern
+MUSI.HIST
+128
+Sakamaki, Larose
+COHD.MATH
+116
+Klikoff, Jason
+SPEP.COMM
+89
+Glowania, Crisanto
+FINA.MATH
+76
+Abbott, Torben
+SOCI.MKTG
+37
+Winic, Maile
+KSPR.ECON
+113
+Nilsson, Harvey
+MNST.CRIJ
+107
+Pearring, Isami
+CHEM.MGMT
+10
+Newbury, Teruko
+ART.ATTR
+96
+Yaggi, Derek
+ATTR.ENGL
+108
+Bangert, Evien
+COHD.BIBL
+67
+Aceret, Yoshimasa
+COMM.EDUC
+59
+Kise, Candido
+PSYC.EDUC
+5
+Zaiger, Garrett
+FSSC.SCWK
+10
+Higashihara, Hisakichi
+ATTR.CHEM
+48
+Michaels, Adam
+BIBL.NURS
+70
+Niles, Oneita
+SCWK.ENVM
+39
+Farm, Mary
+NURS.KSPR
+48
+Urasaki, Heather
+SCWK.CRIJ
+82
+Cornuelle, Kal
+BSAD.ART
+49
+Yadao, Mamoru
+BIOL+THEA
+112
+Roderick, Nobuaki
+MUTC.MUSI
+97
+Winter, Kenji
+MGMT.KSPR
+31
+Imanaka, Shigeo
+ENGL.PHYT
+82
+Wiseman, Ezekiel
+FSSC.THEO
+49
+Winters, Jane
+SPEP+PSYC
+124
+Salcido, Hatsuko
+SPEP.THEO
+11
+Michaelson, Flora
+NURS.BIBL
+40
+Yamamoto, Jackie
+MUSI.MUTC
+23
+Cottey, Ilde
+MUSI+COMM
+46
+Daraujo, Thomas
+BIOL.THEA
+32
+Wylie, Owen
+PHYT.MNST
+81
+Gilman, Rowland
+PHYS.KSPR
+46
+Joesting, Shoichi
+KSPR.MUTC
+72
+Winteler, Janell
+MUTC.KSPR
+17
+Kitchen, Tito
+MKTG.POLS
+82
+Dawes, Sanae
+HIST+SOCI
+47
+Wise, Maurice
+BIOL.ECON
+61
+Penwell, Hatsugoro
+BIOL+PHYT
+83
+Abitong, Jose
+BIOL.ATTR
+28
+Dann, Stuart
+PSYC.ATTR
+75
+Inadomi, Shiro
+PHIL.POLS
+24
+Tolby, Judith
+COMM.HIST
+69
+Freeland, Steve
+CRIJ.BIOL
+83
+Freed, Brooke
+BIOL.PHYS
+124
+Pepper, Akito
+KSPR.ECON
+21
+Cordain, Cameron
+THEA.ATTR
+5
+Ines, Delan
+ATTR.KSPR
+104
+Nevin, Leonita
+PSYC.ATTR
+28
+Nielson, Naaman
+CRIJ.BSAD
+103
+Lunderman, Carlos
+THEO.ACCT
+63
+Countess, Hatsuyo
+FSSC+CSCI
+9
+Tomoguchi, Moto
+GEOL.SOCI
+92
+Wind, Pearson
+POLS.ACCT
+92
+Imoto, Cody
+MNST.SCWK
+52
+Forman, Claude
+ACCT.ART
+12
+Quebec, Steven
+SCWK+FINA
+74
+Glaser, Teru
+THEA.MUTC
+80
+Lowry, Jitsuo
+BSAD.THEO
+55
+Evans, Marcelo
+CRIJ.ENVM
+54
+Ball, Benny
+COMM.SPEP
+5
+Orukei, Dorothy
+PHYS+PHYT
+23
+Ragudo, Joel
+ATTR.MUSI
+120
+Franke, Edwin
+FINA.ART
+26
+Deal, Soko
+NURS.SPAN
+5
+Tomozawa, Hisakichi
+ENVM.ACCT
+124
+Robitaille, Kiyotsugu
+COMM.MUTC
+48
+Tonini, Bertram
+PSYC+CHEM
+103
+Cope, Obed
+FINA.HIST
+91
+Fabro, Merton
+COMM.BIOL
+122
+Sakuma, Roger
+PSYC.SPEP
+9
+Kipapa, Kyudae
+SPEP.HIST
+114
+Cornell, Mackay
+GEOL.MKTG
+14
+Nguyen, Sid
+PHYT.BIOL
+90
+Mignard, Cresencio
+PHYS.SPAN
+112
+Rabe, Kristi
+SPAN.PHIL
+39
+Wiseman, Wong
+PHYS.NURS
+100
+Mikami, Cid
+PHYT.MKTG
+8
+Godfrey, Tomiji
+SPEP.COHD
+6
+Ly, Doroteo
+MKTG.ART
+88
+Higaki, Kuuipo
+MUSI.ENGL
+70
+Rolaff, Dion
+FINA.ART
+122
+Jeursen, Wallace
+POLS.BSAD
+111
+Wolf, Gayla
+PHYT.SPEP
+107
+Wolverton, Satoshi
+MKTG.ACCT
+90
+Perko, Yoshimasa
+PHIL.ACCT
+106
+Ragasa, Brian
+THEA.ACCT
+46
+Pyre, Tetsuya
+ENVM+SCWK
+83
+Kiwaha, Satomi
+CSCI+POLS
+21
+Farnham, Erna
+ENGL.ACCT
+68
+Lowman, Makoto
+MGMT.CHEM
+95
+Kirk, Louise
+ENVM.HIST
+76
+Eto, Masato
+SPAN.CRIJ
+77
+Ueno, Sherl
+KSPR.NURS
+92
+Opiopio, Adela
+GEOL.POLS
+104
+Loyola, Art
+POLS.ART
+81
+Balmores, Haruwo
+BIBL.MNST
+127
+Cordova, Pierce
+MATH.PSYC
+72
+Unoki, Griffith
+POLS.ECON
+62
+Percival, Kathy
+BIBL.ATTR
+41
+Glaspey, Kekoolani
+SCWK.CRIJ
+104
+Glatt, Jan
+MGMT.PHYT
+126
+Dassance, Neves
+THEA.POLS
+81
+Hill, Lulu
+BIOL+POLS
+100
+Lukeala, Tatsuo
+KSPR.SCWK
+92
+Rafferty, Crispin
+CSCI.MUSI
+0
+Woollard, Laine
+PHYT.SOCI
+3
+Wuerth, Helie
+SOCI.COMM
+112
+Lucas, Luana
+ENVM.COMM
+22
+Balmilero, Roehrig
+PHYS.FSSC
+78
+Francia, Dawn
+MUSI.GEOL
+116
+Orduna, Sherl
+FSSC.MNST
+72
+Newton, Matsuo
+SOCI.ENGL
+92
+Imaoka, Tsuneko
+MUTC.FSSC
+37
+Jernstrom, Matthew
+ACCT+HIST
+7
+Neufeld, Cecile
+COHD.SPAN
+14
+Giles, Masayuki
+KSPR.POLS
+32
+Salboro, Hazel
+BSAD.FSSC
+12
+Miller, Winona
+ENGL.COHD
+80
+Uyeda, Kinjiro
+MATH+COMM
+40
+Wolske, Shino
+HIST.SPAN
+5
+Tomiyoshi, Andrew
+THEA.THEO
+78
+Klesse, Charlene
+GEOL+PHYS
+118
+Perdue, Nicholas
+ECON.ENGL
+26
+Wissmar, Herman
+THEA.ENGL
+20
+Highley, Yasu
+PSYC.SPEP
+95
+Abadilla, Jacquie
+GEOL+MATH
+44
+Osaka, Marcela
+MUSI.EDUC
+47
+Joesting, Kazuo
+SPAN.COMM
+16
+Foy, Elizabeth
+GEOL.MATH
+26
+Bance, John
+ACCT.SCWK
+32
+Badger, Selva
+THEO+BIOL
+17
+Hida, Ryuichi
+ACCT.MKTG
+105
+Fagerness, Ernie
+ENGL+SCWK
+94
+Balucan, Andres
+PHYS.ECON
+8
+Gillespie, Cid
+FINA.ART
+8
+Onaka, Benito
+GEOL.BIBL
+51
+Abalos, Patti
+PSYC.CSCI
+17
+Yadao, Joane
+ACCT.PHIL
+113
+Bacarella, Yoshio
+SPAN.MUTC
+52
+Raeder, Hisakichi
+COHD.GEOL
+130
+Tomac, Kiyoichi
+MUSI.ART
+109
+Orey, Clara
+PHYT.PHYS
+104
+Zibbel, Giso
+ENGL+NURS
+56
+Zane, Gary
+MUTC+PHYT
+97
+Tom, Billy
+MUSI.SPAN
+123
+Balai, Taichi
+SPEP.ART
+75
+Robson, Gregoria
+BSAD.SCWK
+41
+Racho, Jaymayne
+HIST.PHYS
+30
+Davies, Barry
+SCWK.MUSI
+43
+Eta, Tokuro
+ECON.PHIL
+112
+Wolfer, Ricardo
+BSAD.FINA
+63
+Pysher, Cindi
+CSCI.THEA
+70
+Yurth, Herb
+COMM.PSYC
+109
+Fotenos, Leonard
+PSYC+GEOL
+9
+Yamada, Hiromu
+COMM.FSSC
+49
+Bagarino, Alick
+PSYC.ENVM
+70
+Mimaki, Arsenia
+ECON.MATH
+54
+Togawa, Hisaharu
+SPAN.PHIL
+127
+Cory, Diego
+PSYC+GEOL
+3
+Uting, Elmer
+KSPR.EDUC
+77
+Acierto, Emrich
+PHYS.CSCI
+83
+Pekelo, Margory
+SCWK.KSPR
+27
+Kitagawa, Ramirez
+PHIL.ART
+95
+Unoki, Dora
+CRIJ.PHYS
+108
+Ueoka, Debbi
+MATH.ENVM
+19
+Wirth, Yoshimasa
+SCWK+FSSC
+91
+Cornelson, Hatsuyoshi
+PSYC.ART
+18
+Yuw, Sarah
+PHYT.BIBL
+29
+Quinlan, Phil
+POLS.MNST
+67
+Louys, Marjorie
+SPEP.BSAD
+60
+Ilaban, Juanito
+BIOL.SPEP
+11
+Higuchi, Lesley
+MUTC.SOCI
+41
+Balberdi, Susan
+FINA.PHYS
+124
+Zeller, Razia
+ATTR.CHEM
+55
+Gilreath, Erwin
+THEO.ENVM
+94
+Vermillion, Ron
+THEA.COHD
+94
+Zentmire, Hal
+CHEM.ECON
+60
+Lufkin, Susan
+MATH.BIOL
+67
+Gilliland, Eladio
+KSPR.PSYC
+29
+Sakane, Annalynn
+CHEM.SCWK
+38
+Corah, Keichi
+MUSI.ENGL
+128
+Penwell, Junichi
+COMM.MNST
+10
+Querubin, Kirk
+POLS.BSAD
+90
+Luzon, Man
+BIOL.PHIL
+34
+Nemeth, Vivian
+MATH.ENGL
+87
+Tomozawa, Rosanne
+CSCI.ENVM
+125
+Bailes, Jerome
+ENGL.FSSC
+57
+Sakimura, Marie
+EDUC.POLS
+3
+Tomei, Lori
+FSSC.THEO
+117
+Hillinger, Bob
+PHYS.ECON
+19
+Inoue, Milton
+MGMT+ENGL
+127
+Newell, Alcy
+MUTC.ART
+64
+Klikoff, Alejo
+SPEP.BIOL
+15

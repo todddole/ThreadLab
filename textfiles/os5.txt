@@ -1,0 +1,26 @@
+Operating Systems HW #5a
+Virtual Memory Simulator
+
+Mercurial            4/4
+PageGenerator        6/6
+FIFO                 6/6
+
+Test Program         6/6
+LRU                  6/6
+Design/Documentation 4/4
+------------------------
+Total              ??/20
+
+
+
+
+Operating Systems HW #5b
+Report on Virtual Memory Simulator
+
+Raw Data         4/4
+Charts/Graphs    8/8
+Analysis       10/10
+Questions        8/8
+------------------------
+Total          ??/30
+
